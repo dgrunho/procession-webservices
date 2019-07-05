@@ -1,0 +1,2761 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GDAL 1.10.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="39.601506646992640" minlon="-8.416058876743463" maxlat="39.606905545579522" maxlon="-8.409097375871442" />
+  </metadata>
+  <wpt lat="39.604241509863101" lon="-8.414723700368858">
+    <name>1</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604241509863101</gpxx:lat>
+      <gpxx:lon>-8.414723700368858</gpxx:lon>
+      <gpxx:y_proj>4808597.3018366722</gpxx:y_proj>
+      <gpxx:x_proj>-936722.75749115204</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604266211577844" lon="-8.414546921064844">
+    <name>2</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604266211577844</gpxx:lat>
+      <gpxx:lon>-8.414546921064844</gpxx:lon>
+      <gpxx:y_proj>4808600.8708229857</gpxx:y_proj>
+      <gpxx:x_proj>-936703.07850904635</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604298341258406" lon="-8.414372208140419">
+    <name>3</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604298341258406</gpxx:lat>
+      <gpxx:lon>-8.414372208140419</gpxx:lon>
+      <gpxx:y_proj>4808605.5130285304</gpxx:y_proj>
+      <gpxx:x_proj>-936683.62955526437</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604331630854688" lon="-8.414197817895911">
+    <name>4</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604331630854688</gpxx:lat>
+      <gpxx:lon>-8.414197817895911</gpxx:lon>
+      <gpxx:y_proj>4808610.3228249159</gpxx:y_proj>
+      <gpxx:x_proj>-936664.21652204636</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604364920434953" lon="-8.414023427651401">
+    <name>5</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604364920434953</gpxx:lat>
+      <gpxx:lon>-8.414023427651401</gpxx:lon>
+      <gpxx:y_proj>4808615.1326213004</gpxx:y_proj>
+      <gpxx:x_proj>-936644.80348882824</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604399497210309" lon="-8.413849491822363">
+    <name>6</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604399497210309</gpxx:lat>
+      <gpxx:lon>-8.413849491822363</gpxx:lon>
+      <gpxx:y_proj>4808620.1283986373</gpxx:y_proj>
+      <gpxx:x_proj>-936625.44104090903</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60443884955734" lon="-8.413677241888285">
+    <name>7</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60443884955734</gpxx:lat>
+      <gpxx:lon>-8.413677241888285</gpxx:lon>
+      <gpxx:y_proj>4808625.8141708458</gpxx:y_proj>
+      <gpxx:x_proj>-936606.26626595831</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604478201882003" lon="-8.413504991954206">
+    <name>8</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604478201882003</gpxx:lat>
+      <gpxx:lon>-8.413504991954206</gpxx:lon>
+      <gpxx:y_proj>4808631.499943049</gpxx:y_proj>
+      <gpxx:x_proj>-936587.09149100748</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604518974435798" lon="-8.413333309661503">
+    <name>9</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604518974435798</gpxx:lat>
+      <gpxx:lon>-8.413333309661503</gpxx:lon>
+      <gpxx:y_proj>4808637.3909187252</gpxx:y_proj>
+      <gpxx:x_proj>-936567.97990560543</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604561093515144" lon="-8.41316216555356">
+    <name>10</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604561093515144</gpxx:lat>
+      <gpxx:lon>-8.41316216555356</gpxx:lon>
+      <gpxx:y_proj>4808643.4764492409</gpxx:y_proj>
+      <gpxx:x_proj>-936548.92823065701</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604603212568875" lon="-8.412991021445615">
+    <name>11</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604603212568875</gpxx:lat>
+      <gpxx:lon>-8.412991021445615</gpxx:lon>
+      <gpxx:y_proj>4808649.5619797558</gpxx:y_proj>
+      <gpxx:x_proj>-936529.87655570835</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604645863203956" lon="-8.412820127712539">
+    <name>12</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604645863203956</gpxx:lat>
+      <gpxx:lon>-8.412820127712539</gpxx:lon>
+      <gpxx:y_proj>4808655.7243190603</gpxx:y_proj>
+      <gpxx:x_proj>-936510.85275236261</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604698107023296" lon="-8.412653752167797">
+    <name>13</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604698107023296</gpxx:lat>
+      <gpxx:lon>-8.412653752167797</gpxx:lon>
+      <gpxx:y_proj>4808663.2727262788</gpxx:y_proj>
+      <gpxx:x_proj>-936492.3319114414</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604699753646052" lon="-8.412484224959506">
+    <name>14</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604699753646052</gpxx:lat>
+      <gpxx:lon>-8.412484224959506</gpxx:lon>
+      <gpxx:y_proj>4808663.5106373671</gpxx:y_proj>
+      <gpxx:x_proj>-936473.46022893896</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604635552050922" lon="-8.412325055010923">
+    <name>15</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604635552050922</gpxx:lat>
+      <gpxx:lon>-8.412325055010923</gpxx:lon>
+      <gpxx:y_proj>4808654.2345208796</gpxx:y_proj>
+      <gpxx:x_proj>-936455.74151131301</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604593769121784" lon="-8.41215388909678">
+    <name>16</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604593769121784</gpxx:lat>
+      <gpxx:lon>-8.41215388909678</gpxx:lon>
+      <gpxx:y_proj>4808648.1975521641</gpxx:y_proj>
+      <gpxx:x_proj>-936436.68740890943</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604539460986139" lon="-8.411988632095259">
+    <name>17</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604539460986139</gpxx:lat>
+      <gpxx:lon>-8.411988632095259</gpxx:lon>
+      <gpxx:y_proj>4808640.3508957652</gpxx:y_proj>
+      <gpxx:x_proj>-936418.29108365008</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60448020608689" lon="-8.411996585149041">
+    <name>18</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60448020608689</gpxx:lat>
+      <gpxx:lon>-8.411996585149041</gpxx:lon>
+      <gpxx:y_proj>4808631.7895182157</gpxx:y_proj>
+      <gpxx:x_proj>-936419.17641354725</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604440657763341" lon="-8.412168641670744">
+    <name>19</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604440657763341</gpxx:lat>
+      <gpxx:lon>-8.412168641670744</gpxx:lon>
+      <gpxx:y_proj>4808626.0754271923</gpxx:y_proj>
+      <gpxx:x_proj>-936438.329657931</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604406351712797" lon="-8.412342699726104">
+    <name>20</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604406351712797</gpxx:lat>
+      <gpxx:lon>-8.412342699726104</gpxx:lon>
+      <gpxx:y_proj>4808621.1187622007</gpxx:y_proj>
+      <gpxx:x_proj>-936457.70571202214</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604369045559523" lon="-8.41251567901142">
+    <name>21</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604369045559523</gpxx:lat>
+      <gpxx:lon>-8.41251567901142</gpxx:lon>
+      <gpxx:y_proj>4808615.7286340594</gpxx:y_proj>
+      <gpxx:x_proj>-936476.96167798142</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604328982645647" lon="-8.412687640395347">
+    <name>22</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604328982645647</gpxx:lat>
+      <gpxx:lon>-8.412687640395347</gpxx:lon>
+      <gpxx:y_proj>4808609.9402024001</gpxx:y_proj>
+      <gpxx:x_proj>-936496.10433167615</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60428402071291" lon="-8.412857561823028">
+    <name>23</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60428402071291</gpxx:lat>
+      <gpxx:lon>-8.412857561823028</gpxx:lon>
+      <gpxx:y_proj>4808603.4439471364</gpxx:y_proj>
+      <gpxx:x_proj>-936515.0198984805</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604244304064572" lon="-8.413029667770628">
+    <name>24</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604244304064572</gpxx:lat>
+      <gpxx:lon>-8.413029667770628</gpxx:lon>
+      <gpxx:y_proj>4808597.7055521794</gpxx:y_proj>
+      <gpxx:x_proj>-936534.17864492978</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604205906860059" lon="-8.413202268368389">
+    <name>25</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604205906860059</gpxx:lat>
+      <gpxx:lon>-8.413202268368389</gpxx:lon>
+      <gpxx:y_proj>4808592.1577980286</gpxx:y_proj>
+      <gpxx:x_proj>-936553.39245558321</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604169409675904" lon="-8.413375574095639">
+    <name>26</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604169409675904</gpxx:lat>
+      <gpxx:lon>-8.413375574095639</gpxx:lon>
+      <gpxx:y_proj>4808586.8845679145</gpxx:y_proj>
+      <gpxx:x_proj>-936572.68476089218</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604131951292558" lon="-8.413548532321924">
+    <name>27</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604131951292558</gpxx:lat>
+      <gpxx:lon>-8.413548532321924</gpxx:lon>
+      <gpxx:y_proj>4808581.4724635482</gpxx:y_proj>
+      <gpxx:x_proj>-936591.93838257075</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.6040947225355" lon="-8.413721575602391">
+    <name>28</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.6040947225355</gpxx:lat>
+      <gpxx:lon>-8.413721575602391</gpxx:lon>
+      <gpxx:y_proj>4808576.0935392063</gpxx:y_proj>
+      <gpxx:x_proj>-936611.20147243747</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60405753657195" lon="-8.413894634516112">
+    <name>29</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60405753657195</gpxx:lat>
+      <gpxx:lon>-8.413894634516112</gpxx:lon>
+      <gpxx:y_proj>4808570.7208006904</gpxx:y_proj>
+      <gpxx:x_proj>-936630.46630259021</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604019671939604" lon="-8.414067434341332">
+    <name>30</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604019671939604</gpxx:lat>
+      <gpxx:lon>-8.414067434341332</gpxx:lon>
+      <gpxx:y_proj>4808565.2500090506</gpxx:y_proj>
+      <gpxx:x_proj>-936649.70229114289</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603978741987362" lon="-8.414239063924596">
+    <name>31</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603978741987362</gpxx:lat>
+      <gpxx:lon>-8.414239063924596</gpxx:lon>
+      <gpxx:y_proj>4808559.3363344902</gpxx:y_proj>
+      <gpxx:x_proj>-936668.80800895684</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603936994508977" lon="-8.414410360501906">
+    <name>32</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603936994508977</gpxx:lat>
+      <gpxx:lon>-8.414410360501906</gpxx:lon>
+      <gpxx:y_proj>4808553.3045450561</gpxx:y_proj>
+      <gpxx:x_proj>-936687.87665671762</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60389502356184" lon="-8.414581566060472">
+    <name>33</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60389502356184</gpxx:lat>
+      <gpxx:lon>-8.414581566060472</gpxx:lon>
+      <gpxx:y_proj>4808547.2404719098</gpxx:y_proj>
+      <gpxx:x_proj>-936706.93517231813</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603847811557706" lon="-8.414750448862073">
+    <name>34</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603847811557706</gpxx:lat>
+      <gpxx:lon>-8.414750448862073</gpxx:lon>
+      <gpxx:y_proj>4808540.4191614212</gpxx:y_proj>
+      <gpxx:x_proj>-936725.73511979613</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603819567821361" lon="-8.414926092316238">
+    <name>35</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603819567821361</gpxx:lat>
+      <gpxx:lon>-8.414926092316238</gpxx:lon>
+      <gpxx:y_proj>4808536.3384367488</gpxx:y_proj>
+      <gpxx:x_proj>-936745.28765967488</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603789411492585" lon="-8.415101380132313">
+    <name>36</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603789411492585</gpxx:lat>
+      <gpxx:lon>-8.415101380132313</gpxx:lon>
+      <gpxx:y_proj>4808531.9813778438</gpxx:y_proj>
+      <gpxx:x_proj>-936764.80061010271</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603756502564138" lon="-8.415275892128998">
+    <name>37</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603756502564138</gpxx:lat>
+      <gpxx:lon>-8.415275892128998</gpxx:lon>
+      <gpxx:y_proj>4808527.226618886</gpxx:y_proj>
+      <gpxx:x_proj>-936784.227196711</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60371496421201" lon="-8.415441614363081">
+    <name>38</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60371496421201</gpxx:lat>
+      <gpxx:lon>-8.415441614363081</gpxx:lon>
+      <gpxx:y_proj>4808521.2250638297</gpxx:y_proj>
+      <gpxx:x_proj>-936802.67531142232</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603577905829397" lon="-8.415416426582468">
+    <name>39</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603577905829397</gpxx:lat>
+      <gpxx:lon>-8.415416426582468</gpxx:lon>
+      <gpxx:y_proj>4808501.4225842971</gpxx:y_proj>
+      <gpxx:x_proj>-936799.87142051023</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603440777823693" lon="-8.415391916513684">
+    <name>40</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603440777823693</gpxx:lat>
+      <gpxx:lon>-8.415391916513684</gpxx:lon>
+      <gpxx:y_proj>4808481.6100846957</gpxx:y_proj>
+      <gpxx:x_proj>-936797.14297213394</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603313424920273" lon="-8.415361412798079">
+    <name>41</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603313424920273</gpxx:lat>
+      <gpxx:lon>-8.415361412798079</gpxx:lon>
+      <gpxx:y_proj>4808463.2099444959</gpxx:y_proj>
+      <gpxx:x_proj>-936793.74731404544</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603354611914881" lon="-8.415189886673074">
+    <name>42</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603354611914881</gpxx:lat>
+      <gpxx:lon>-8.415189886673074</gpxx:lon>
+      <gpxx:y_proj>4808469.1607001005</gpxx:y_proj>
+      <gpxx:x_proj>-936774.65311315213</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603395798884989" lon="-8.415018360548068">
+    <name>43</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603395798884989</gpxx:lat>
+      <gpxx:lon>-8.415018360548068</gpxx:lon>
+      <gpxx:y_proj>4808475.1114557041</gpxx:y_proj>
+      <gpxx:x_proj>-936755.55891225871</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603436985830598" lon="-8.414846834423063">
+    <name>44</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603436985830598</gpxx:lat>
+      <gpxx:lon>-8.414846834423063</gpxx:lon>
+      <gpxx:y_proj>4808481.0622113058</gpxx:y_proj>
+      <gpxx:x_proj>-936736.46471136529</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603371607291812" lon="-8.414762555794491">
+    <name>45</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603371607291812</gpxx:lat>
+      <gpxx:lon>-8.414762555794491</gpxx:lon>
+      <gpxx:y_proj>4808471.6162173785</gpxx:y_proj>
+      <gpxx:x_proj>-936727.08285734802</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603234597178172" lon="-8.414736923337495">
+    <name>46</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603234597178172</gpxx:lat>
+      <gpxx:lon>-8.414736923337495</gpxx:lon>
+      <gpxx:y_proj>4808451.8208099883</gpxx:y_proj>
+      <gpxx:x_proj>-936724.22946528753</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603097321848381" lon="-8.414713959517117">
+    <name>47</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603097321848381</gpxx:lat>
+      <gpxx:lon>-8.414713959517117</gpxx:lon>
+      <gpxx:y_proj>4808431.9871230852</gpxx:y_proj>
+      <gpxx:x_proj>-936721.67314449628</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60295934726058" lon="-8.414699450620685">
+    <name>48</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60295934726058</gpxx:lat>
+      <gpxx:lon>-8.414699450620685</gpxx:lon>
+      <gpxx:y_proj>4808412.0524462545</gpxx:y_proj>
+      <gpxx:x_proj>-936720.05802153342</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602821385488674" lon="-8.414684733421359">
+    <name>49</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602821385488674</gpxx:lat>
+      <gpxx:lon>-8.414684733421359</gpxx:lon>
+      <gpxx:y_proj>4808392.1196607826</gpxx:y_proj>
+      <gpxx:x_proj>-936718.41971039865</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60268321948233" lon="-8.414677011746036">
+    <name>50</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60268321948233</gpxx:lat>
+      <gpxx:lon>-8.414677011746036</gpxx:lon>
+      <gpxx:y_proj>4808372.1574072139</gpxx:y_proj>
+      <gpxx:x_proj>-936717.56013743358</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602545938506289" lon="-8.414698010468134">
+    <name>51</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602545938506289</gpxx:lat>
+      <gpxx:lon>-8.414698010468134</gpxx:lon>
+      <gpxx:y_proj>4808352.3230624571</gpxx:y_proj>
+      <gpxx:x_proj>-936719.89770448487</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602408030709228" lon="-8.414712462569467">
+    <name>52</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602408030709228</gpxx:lat>
+      <gpxx:lon>-8.414712462569467</gpxx:lon>
+      <gpxx:y_proj>4808332.3981942357</gpxx:y_proj>
+      <gpxx:x_proj>-936721.50650504616</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602270150841882" lon="-8.414727468877491">
+    <name>53</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602270150841882</gpxx:lat>
+      <gpxx:lon>-8.414727468877491</gpxx:lon>
+      <gpxx:y_proj>4808312.4774009539</gpxx:y_proj>
+      <gpxx:x_proj>-936723.17699961399</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602133362500759" lon="-8.414707341471459">
+    <name>54</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602133362500759</gpxx:lat>
+      <gpxx:lon>-8.414707341471459</gpxx:lon>
+      <gpxx:y_proj>4808292.7143498622</gpxx:y_proj>
+      <gpxx:x_proj>-936720.93642702361</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601999354560107" lon="-8.414662531735631">
+    <name>55</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601999354560107</gpxx:lat>
+      <gpxx:lon>-8.414662531735631</gpxx:lon>
+      <gpxx:y_proj>4808273.353046272</gpxx:y_proj>
+      <gpxx:x_proj>-936715.94823004864</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601866481363295" lon="-8.414612265983831">
+    <name>56</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601866481363295</gpxx:lat>
+      <gpxx:lon>-8.414612265983831</gpxx:lon>
+      <gpxx:y_proj>4808254.1557260752</gpxx:y_proj>
+      <gpxx:x_proj>-936710.35267215397</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601798751370183" lon="-8.414727115169685">
+    <name>57</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601798751370183</gpxx:lat>
+      <gpxx:lon>-8.414727115169685</gpxx:lon>
+      <gpxx:y_proj>4808244.3702124227</gpxx:y_proj>
+      <gpxx:x_proj>-936723.1376250413</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601753658632205" lon="-8.414896978932953">
+    <name>58</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601753658632205</gpxx:lat>
+      <gpxx:lon>-8.414896978932953</gpxx:lon>
+      <gpxx:y_proj>4808237.8552960111</gpxx:y_proj>
+      <gpxx:x_proj>-936742.04677267245</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601706668045438" lon="-8.41506596712496">
+    <name>59</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601706668045438</gpxx:lat>
+      <gpxx:lon>-8.41506596712496</gpxx:lon>
+      <gpxx:y_proj>4808231.066186388</gpxx:y_proj>
+      <gpxx:x_proj>-936760.85845215665</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601659034103676" lon="-8.4152346585159">
+    <name>60</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601659034103676</gpxx:lat>
+      <gpxx:lon>-8.4152346585159</gpxx:lon>
+      <gpxx:y_proj>4808224.1841307739</gpxx:y_proj>
+      <gpxx:x_proj>-936779.63709189743</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601613085159926" lon="-8.415404133688138">
+    <name>61</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601613085159926</gpxx:lat>
+      <gpxx:lon>-8.415404133688138</gpxx:lon>
+      <gpxx:y_proj>4808217.545524748</gpxx:y_proj>
+      <gpxx:x_proj>-936798.50298177311</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601565723436757" lon="-8.415572944031178">
+    <name>62</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601565723436757</gpxx:lat>
+      <gpxx:lon>-8.415572944031178</gpxx:lon>
+      <gpxx:y_proj>4808210.7028079573</gpxx:y_proj>
+      <gpxx:x_proj>-936817.29486320075</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601578127478533" lon="-8.41573030172942">
+    <name>63</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601578127478533</gpxx:lat>
+      <gpxx:lon>-8.41573030172942</gpxx:lon>
+      <gpxx:y_proj>4808212.4949159659</gpxx:y_proj>
+      <gpxx:x_proj>-936834.81184204156</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601590636126836" lon="-8.415901744063815">
+    <name>64</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601590636126836</gpxx:lat>
+      <gpxx:lon>-8.415901744063815</gpxx:lon>
+      <gpxx:y_proj>4808214.3021376207</gpxx:y_proj>
+      <gpxx:x_proj>-936853.89671540679</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601529987980101" lon="-8.416058876743463">
+    <name>65</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601529987980101</gpxx:lat>
+      <gpxx:lon>-8.416058876743463</gpxx:lon>
+      <gpxx:y_proj>4808205.53983148</gpxx:y_proj>
+      <gpxx:x_proj>-936871.38864529226</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <!-- START REVERSE FIRST -->
+    <wpt lat="39.601529987980101" lon="-8.416058876743463">
+    <name>65</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601529987980101</gpxx:lat>
+      <gpxx:lon>-8.416058876743463</gpxx:lon>
+      <gpxx:y_proj>4808205.53983148</gpxx:y_proj>
+      <gpxx:x_proj>-936871.38864529226</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601590636126836" lon="-8.415901744063815">
+    <name>64</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601590636126836</gpxx:lat>
+      <gpxx:lon>-8.415901744063815</gpxx:lon>
+      <gpxx:y_proj>4808214.3021376207</gpxx:y_proj>
+      <gpxx:x_proj>-936853.89671540679</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601578127478533" lon="-8.41573030172942">
+    <name>63</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601578127478533</gpxx:lat>
+      <gpxx:lon>-8.41573030172942</gpxx:lon>
+      <gpxx:y_proj>4808212.4949159659</gpxx:y_proj>
+      <gpxx:x_proj>-936834.81184204156</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601565723436757" lon="-8.415572944031178">
+    <name>62</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601565723436757</gpxx:lat>
+      <gpxx:lon>-8.415572944031178</gpxx:lon>
+      <gpxx:y_proj>4808210.7028079573</gpxx:y_proj>
+      <gpxx:x_proj>-936817.29486320075</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601613085159926" lon="-8.415404133688138">
+    <name>61</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601613085159926</gpxx:lat>
+      <gpxx:lon>-8.415404133688138</gpxx:lon>
+      <gpxx:y_proj>4808217.545524748</gpxx:y_proj>
+      <gpxx:x_proj>-936798.50298177311</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601659034103676" lon="-8.4152346585159">
+    <name>60</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601659034103676</gpxx:lat>
+      <gpxx:lon>-8.4152346585159</gpxx:lon>
+      <gpxx:y_proj>4808224.1841307739</gpxx:y_proj>
+      <gpxx:x_proj>-936779.63709189743</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601706668045438" lon="-8.41506596712496">
+    <name>59</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601706668045438</gpxx:lat>
+      <gpxx:lon>-8.41506596712496</gpxx:lon>
+      <gpxx:y_proj>4808231.066186388</gpxx:y_proj>
+      <gpxx:x_proj>-936760.85845215665</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601753658632205" lon="-8.414896978932953">
+    <name>58</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601753658632205</gpxx:lat>
+      <gpxx:lon>-8.414896978932953</gpxx:lon>
+      <gpxx:y_proj>4808237.8552960111</gpxx:y_proj>
+      <gpxx:x_proj>-936742.04677267245</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601798751370183" lon="-8.414727115169685">
+    <name>57</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601798751370183</gpxx:lat>
+      <gpxx:lon>-8.414727115169685</gpxx:lon>
+      <gpxx:y_proj>4808244.3702124227</gpxx:y_proj>
+      <gpxx:x_proj>-936723.1376250413</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601866481363295" lon="-8.414612265983831">
+    <name>56</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601866481363295</gpxx:lat>
+      <gpxx:lon>-8.414612265983831</gpxx:lon>
+      <gpxx:y_proj>4808254.1557260752</gpxx:y_proj>
+      <gpxx:x_proj>-936710.35267215397</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.601999354560107" lon="-8.414662531735631">
+    <name>55</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.601999354560107</gpxx:lat>
+      <gpxx:lon>-8.414662531735631</gpxx:lon>
+      <gpxx:y_proj>4808273.353046272</gpxx:y_proj>
+      <gpxx:x_proj>-936715.94823004864</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.602133362500759" lon="-8.414707341471459">
+    <name>54</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.602133362500759</gpxx:lat>
+      <gpxx:lon>-8.414707341471459</gpxx:lon>
+      <gpxx:y_proj>4808292.7143498622</gpxx:y_proj>
+      <gpxx:x_proj>-936720.93642702361</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.602270150841882" lon="-8.414727468877491">
+    <name>53</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.602270150841882</gpxx:lat>
+      <gpxx:lon>-8.414727468877491</gpxx:lon>
+      <gpxx:y_proj>4808312.4774009539</gpxx:y_proj>
+      <gpxx:x_proj>-936723.17699961399</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.602408030709228" lon="-8.414712462569467">
+    <name>52</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.602408030709228</gpxx:lat>
+      <gpxx:lon>-8.414712462569467</gpxx:lon>
+      <gpxx:y_proj>4808332.3981942357</gpxx:y_proj>
+      <gpxx:x_proj>-936721.50650504616</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.602545938506289" lon="-8.414698010468134">
+    <name>51</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.602545938506289</gpxx:lat>
+      <gpxx:lon>-8.414698010468134</gpxx:lon>
+      <gpxx:y_proj>4808352.3230624571</gpxx:y_proj>
+      <gpxx:x_proj>-936719.89770448487</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.60268321948233" lon="-8.414677011746036">
+    <name>50</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.60268321948233</gpxx:lat>
+      <gpxx:lon>-8.414677011746036</gpxx:lon>
+      <gpxx:y_proj>4808372.1574072139</gpxx:y_proj>
+      <gpxx:x_proj>-936717.56013743358</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.602821385488674" lon="-8.414684733421359">
+    <name>49</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.602821385488674</gpxx:lat>
+      <gpxx:lon>-8.414684733421359</gpxx:lon>
+      <gpxx:y_proj>4808392.1196607826</gpxx:y_proj>
+      <gpxx:x_proj>-936718.41971039865</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.60295934726058" lon="-8.414699450620685">
+    <name>48</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.60295934726058</gpxx:lat>
+      <gpxx:lon>-8.414699450620685</gpxx:lon>
+      <gpxx:y_proj>4808412.0524462545</gpxx:y_proj>
+      <gpxx:x_proj>-936720.05802153342</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603097321848381" lon="-8.414713959517117">
+    <name>47</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603097321848381</gpxx:lat>
+      <gpxx:lon>-8.414713959517117</gpxx:lon>
+      <gpxx:y_proj>4808431.9871230852</gpxx:y_proj>
+      <gpxx:x_proj>-936721.67314449628</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603234597178172" lon="-8.414736923337495">
+    <name>46</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603234597178172</gpxx:lat>
+      <gpxx:lon>-8.414736923337495</gpxx:lon>
+      <gpxx:y_proj>4808451.8208099883</gpxx:y_proj>
+      <gpxx:x_proj>-936724.22946528753</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603371607291812" lon="-8.414762555794491">
+    <name>45</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603371607291812</gpxx:lat>
+      <gpxx:lon>-8.414762555794491</gpxx:lon>
+      <gpxx:y_proj>4808471.6162173785</gpxx:y_proj>
+      <gpxx:x_proj>-936727.08285734802</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603436985830598" lon="-8.414846834423063">
+    <name>44</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603436985830598</gpxx:lat>
+      <gpxx:lon>-8.414846834423063</gpxx:lon>
+      <gpxx:y_proj>4808481.0622113058</gpxx:y_proj>
+      <gpxx:x_proj>-936736.46471136529</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603395798884989" lon="-8.415018360548068">
+    <name>43</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603395798884989</gpxx:lat>
+      <gpxx:lon>-8.415018360548068</gpxx:lon>
+      <gpxx:y_proj>4808475.1114557041</gpxx:y_proj>
+      <gpxx:x_proj>-936755.55891225871</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603354611914881" lon="-8.415189886673074">
+    <name>42</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603354611914881</gpxx:lat>
+      <gpxx:lon>-8.415189886673074</gpxx:lon>
+      <gpxx:y_proj>4808469.1607001005</gpxx:y_proj>
+      <gpxx:x_proj>-936774.65311315213</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603313424920273" lon="-8.415361412798079">
+    <name>41</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603313424920273</gpxx:lat>
+      <gpxx:lon>-8.415361412798079</gpxx:lon>
+      <gpxx:y_proj>4808463.2099444959</gpxx:y_proj>
+      <gpxx:x_proj>-936793.74731404544</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603440777823693" lon="-8.415391916513684">
+    <name>40</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603440777823693</gpxx:lat>
+      <gpxx:lon>-8.415391916513684</gpxx:lon>
+      <gpxx:y_proj>4808481.6100846957</gpxx:y_proj>
+      <gpxx:x_proj>-936797.14297213394</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603577905829397" lon="-8.415416426582468">
+    <name>39</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603577905829397</gpxx:lat>
+      <gpxx:lon>-8.415416426582468</gpxx:lon>
+      <gpxx:y_proj>4808501.4225842971</gpxx:y_proj>
+      <gpxx:x_proj>-936799.87142051023</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.60371496421201" lon="-8.415441614363081">
+    <name>38</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.60371496421201</gpxx:lat>
+      <gpxx:lon>-8.415441614363081</gpxx:lon>
+      <gpxx:y_proj>4808521.2250638297</gpxx:y_proj>
+      <gpxx:x_proj>-936802.67531142232</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603756502564138" lon="-8.415275892128998">
+    <name>37</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603756502564138</gpxx:lat>
+      <gpxx:lon>-8.415275892128998</gpxx:lon>
+      <gpxx:y_proj>4808527.226618886</gpxx:y_proj>
+      <gpxx:x_proj>-936784.227196711</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603789411492585" lon="-8.415101380132313">
+    <name>36</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603789411492585</gpxx:lat>
+      <gpxx:lon>-8.415101380132313</gpxx:lon>
+      <gpxx:y_proj>4808531.9813778438</gpxx:y_proj>
+      <gpxx:x_proj>-936764.80061010271</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603819567821361" lon="-8.414926092316238">
+    <name>35</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603819567821361</gpxx:lat>
+      <gpxx:lon>-8.414926092316238</gpxx:lon>
+      <gpxx:y_proj>4808536.3384367488</gpxx:y_proj>
+      <gpxx:x_proj>-936745.28765967488</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603847811557706" lon="-8.414750448862073">
+    <name>34</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603847811557706</gpxx:lat>
+      <gpxx:lon>-8.414750448862073</gpxx:lon>
+      <gpxx:y_proj>4808540.4191614212</gpxx:y_proj>
+      <gpxx:x_proj>-936725.73511979613</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.60389502356184" lon="-8.414581566060472">
+    <name>33</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.60389502356184</gpxx:lat>
+      <gpxx:lon>-8.414581566060472</gpxx:lon>
+      <gpxx:y_proj>4808547.2404719098</gpxx:y_proj>
+      <gpxx:x_proj>-936706.93517231813</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603936994508977" lon="-8.414410360501906">
+    <name>32</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603936994508977</gpxx:lat>
+      <gpxx:lon>-8.414410360501906</gpxx:lon>
+      <gpxx:y_proj>4808553.3045450561</gpxx:y_proj>
+      <gpxx:x_proj>-936687.87665671762</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.603978741987362" lon="-8.414239063924596">
+    <name>31</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.603978741987362</gpxx:lat>
+      <gpxx:lon>-8.414239063924596</gpxx:lon>
+      <gpxx:y_proj>4808559.3363344902</gpxx:y_proj>
+      <gpxx:x_proj>-936668.80800895684</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.604019671939604" lon="-8.414067434341332">
+    <name>30</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.604019671939604</gpxx:lat>
+      <gpxx:lon>-8.414067434341332</gpxx:lon>
+      <gpxx:y_proj>4808565.2500090506</gpxx:y_proj>
+      <gpxx:x_proj>-936649.70229114289</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.60405753657195" lon="-8.413894634516112">
+    <name>29</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.60405753657195</gpxx:lat>
+      <gpxx:lon>-8.413894634516112</gpxx:lon>
+      <gpxx:y_proj>4808570.7208006904</gpxx:y_proj>
+      <gpxx:x_proj>-936630.46630259021</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.6040947225355" lon="-8.413721575602391">
+    <name>28</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.6040947225355</gpxx:lat>
+      <gpxx:lon>-8.413721575602391</gpxx:lon>
+      <gpxx:y_proj>4808576.0935392063</gpxx:y_proj>
+      <gpxx:x_proj>-936611.20147243747</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.604131951292558" lon="-8.413548532321924">
+    <name>27</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.604131951292558</gpxx:lat>
+      <gpxx:lon>-8.413548532321924</gpxx:lon>
+      <gpxx:y_proj>4808581.4724635482</gpxx:y_proj>
+      <gpxx:x_proj>-936591.93838257075</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.604169409675904" lon="-8.413375574095639">
+    <name>26</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.604169409675904</gpxx:lat>
+      <gpxx:lon>-8.413375574095639</gpxx:lon>
+      <gpxx:y_proj>4808586.8845679145</gpxx:y_proj>
+      <gpxx:x_proj>-936572.68476089218</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.604205906860059" lon="-8.413202268368389">
+    <name>25</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.604205906860059</gpxx:lat>
+      <gpxx:lon>-8.413202268368389</gpxx:lon>
+      <gpxx:y_proj>4808592.1577980286</gpxx:y_proj>
+      <gpxx:x_proj>-936553.39245558321</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.604244304064572" lon="-8.413029667770628">
+    <name>24</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.604244304064572</gpxx:lat>
+      <gpxx:lon>-8.413029667770628</gpxx:lon>
+      <gpxx:y_proj>4808597.7055521794</gpxx:y_proj>
+      <gpxx:x_proj>-936534.17864492978</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.60428402071291" lon="-8.412857561823028">
+    <name>23</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.60428402071291</gpxx:lat>
+      <gpxx:lon>-8.412857561823028</gpxx:lon>
+      <gpxx:y_proj>4808603.4439471364</gpxx:y_proj>
+      <gpxx:x_proj>-936515.0198984805</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.604328982645647" lon="-8.412687640395347">
+    <name>22</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.604328982645647</gpxx:lat>
+      <gpxx:lon>-8.412687640395347</gpxx:lon>
+      <gpxx:y_proj>4808609.9402024001</gpxx:y_proj>
+      <gpxx:x_proj>-936496.10433167615</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.604369045559523" lon="-8.41251567901142">
+    <name>21</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.604369045559523</gpxx:lat>
+      <gpxx:lon>-8.41251567901142</gpxx:lon>
+      <gpxx:y_proj>4808615.7286340594</gpxx:y_proj>
+      <gpxx:x_proj>-936476.96167798142</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.604406351712797" lon="-8.412342699726104">
+    <name>20</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.604406351712797</gpxx:lat>
+      <gpxx:lon>-8.412342699726104</gpxx:lon>
+      <gpxx:y_proj>4808621.1187622007</gpxx:y_proj>
+      <gpxx:x_proj>-936457.70571202214</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.604440657763341" lon="-8.412168641670744">
+    <name>19</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.604440657763341</gpxx:lat>
+      <gpxx:lon>-8.412168641670744</gpxx:lon>
+      <gpxx:y_proj>4808626.0754271923</gpxx:y_proj>
+      <gpxx:x_proj>-936438.329657931</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.60448020608689" lon="-8.411996585149041">
+    <name>18</name>
+    <type>WAYPOINT</type>
+    <extensions>      <gpxx:lat>39.60448020608689</gpxx:lat>
+      <gpxx:lon>-8.411996585149041</gpxx:lon>
+      <gpxx:y_proj>4808631.7895182157</gpxx:y_proj>
+      <gpxx:x_proj>-936419.17641354725</gpxx:x_proj>
+    </extensions>
+  </wpt>
+
+  <!-- END REVERSE FIRST -->
+  <!-- START REVERSE START SECOND -->
+  <wpt lat="39.604456426112975" lon="-8.411743041227599">
+    <name>81</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604456426112975</gpxx:lat>
+      <gpxx:lon>-8.411743041227599</gpxx:lon>
+      <gpxx:y_proj>4808628.3536974583</gpxx:y_proj>
+      <gpxx:x_proj>-936390.95203331881</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604458658534128" lon="-8.41156340153694">
+    <name>80</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604458658534128</gpxx:lat>
+      <gpxx:lon>-8.41156340153694</gpxx:lon>
+      <gpxx:y_proj>4808628.6762460768</gpxx:y_proj>
+      <gpxx:x_proj>-936370.95463442837</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604469155763269" lon="-8.411384302663151">
+    <name>79</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604469155763269</gpxx:lat>
+      <gpxx:lon>-8.411384302663151</gpxx:lon>
+      <gpxx:y_proj>4808630.1929254327</gpxx:y_proj>
+      <gpxx:x_proj>-936351.01743899658</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60448085505319" lon="-8.411205282447666">
+    <name>78</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60448085505319</gpxx:lat>
+      <gpxx:lon>-8.411205282447666</gpxx:lon>
+      <gpxx:y_proj>4808631.8832833394</gpxx:y_proj>
+      <gpxx:x_proj>-936331.08899976686</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604492554341142" lon="-8.411026262232177">
+    <name>77</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604492554341142</gpxx:lat>
+      <gpxx:lon>-8.411026262232177</gpxx:lon>
+      <gpxx:y_proj>4808633.5736412536</gpxx:y_proj>
+      <gpxx:x_proj>-936311.16056053713</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604504253627113" lon="-8.410847242016693">
+    <name>76</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604504253627113</gpxx:lat>
+      <gpxx:lon>-8.410847242016693</gpxx:lon>
+      <gpxx:y_proj>4808635.263999166</gpxx:y_proj>
+      <gpxx:x_proj>-936291.23212130775</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604517145951554" lon="-8.410668412438973">
+    <name>75</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604517145951554</gpxx:lat>
+      <gpxx:lon>-8.410668412438973</gpxx:lon>
+      <gpxx:y_proj>4808637.1267322022</gpxx:y_proj>
+      <gpxx:x_proj>-936271.3249037771</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60453925065049" lon="-8.410491054921522">
+    <name>74</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60453925065049</gpxx:lat>
+      <gpxx:lon>-8.410491054921522</gpxx:lon>
+      <gpxx:y_proj>4808640.3205056414</gpxx:y_proj>
+      <gpxx:x_proj>-936251.58155524614</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604561355342355" lon="-8.410313697404069">
+    <name>73</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604561355342355</gpxx:lat>
+      <gpxx:lon>-8.410313697404069</gpxx:lon>
+      <gpxx:y_proj>4808643.5142790778</gpxx:y_proj>
+      <gpxx:x_proj>-936231.83820671483</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60458176577847" lon="-8.410136053982109">
+    <name>72</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60458176577847</gpxx:lat>
+      <gpxx:lon>-8.410136053982109</gpxx:lon>
+      <gpxx:y_proj>4808646.4632606385</gpxx:y_proj>
+      <gpxx:x_proj>-936212.06303143955</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604595337864765" lon="-8.409957256589202">
+    <name>71</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604595337864765</gpxx:lat>
+      <gpxx:lon>-8.409957256589202</gpxx:lon>
+      <gpxx:y_proj>4808648.4242105084</gpxx:y_proj>
+      <gpxx:x_proj>-936192.15939670592</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604608909948389" lon="-8.409778459196295">
+    <name>70</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604608909948389</gpxx:lat>
+      <gpxx:lon>-8.409778459196295</gpxx:lon>
+      <gpxx:y_proj>4808650.3851603772</gpxx:y_proj>
+      <gpxx:x_proj>-936172.25576197228</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604622482029363" lon="-8.409599661803387">
+    <name>69</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604622482029363</gpxx:lat>
+      <gpxx:lon>-8.409599661803387</gpxx:lon>
+      <gpxx:y_proj>4808652.3461102471</gpxx:y_proj>
+      <gpxx:x_proj>-936152.35212723864</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604636054107672" lon="-8.409420864410478">
+    <name>68</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604636054107672</gpxx:lat>
+      <gpxx:lon>-8.409420864410478</gpxx:lon>
+      <gpxx:y_proj>4808654.3070601197</gpxx:y_proj>
+      <gpxx:x_proj>-936132.44849250489</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604671513342737" lon="-8.409247522123421">
+    <name>67</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604671513342737</gpxx:lat>
+      <gpxx:lon>-8.409247522123421</gpxx:lon>
+      <gpxx:y_proj>4808659.4303585114</gpxx:y_proj>
+      <gpxx:x_proj>-936113.15211737668</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604609737990423" lon="-8.409097375871442">
+    <name>66</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604609737990423</gpxx:lat>
+      <gpxx:lon>-8.409097375871442</gpxx:lon>
+      <gpxx:y_proj>4808650.5047992719</gpxx:y_proj>
+      <gpxx:x_proj>-936096.43791306182</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <!-- END REVERSE START SECOND -->
+  <wpt lat="39.604609737990423" lon="-8.409097375871442">
+    <name>66</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604609737990423</gpxx:lat>
+      <gpxx:lon>-8.409097375871442</gpxx:lon>
+      <gpxx:y_proj>4808650.5047992719</gpxx:y_proj>
+      <gpxx:x_proj>-936096.43791306182</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604671513342737" lon="-8.409247522123421">
+    <name>67</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604671513342737</gpxx:lat>
+      <gpxx:lon>-8.409247522123421</gpxx:lon>
+      <gpxx:y_proj>4808659.4303585114</gpxx:y_proj>
+      <gpxx:x_proj>-936113.15211737668</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604636054107672" lon="-8.409420864410478">
+    <name>68</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604636054107672</gpxx:lat>
+      <gpxx:lon>-8.409420864410478</gpxx:lon>
+      <gpxx:y_proj>4808654.3070601197</gpxx:y_proj>
+      <gpxx:x_proj>-936132.44849250489</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604622482029363" lon="-8.409599661803387">
+    <name>69</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604622482029363</gpxx:lat>
+      <gpxx:lon>-8.409599661803387</gpxx:lon>
+      <gpxx:y_proj>4808652.3461102471</gpxx:y_proj>
+      <gpxx:x_proj>-936152.35212723864</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604608909948389" lon="-8.409778459196295">
+    <name>70</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604608909948389</gpxx:lat>
+      <gpxx:lon>-8.409778459196295</gpxx:lon>
+      <gpxx:y_proj>4808650.3851603772</gpxx:y_proj>
+      <gpxx:x_proj>-936172.25576197228</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604595337864765" lon="-8.409957256589202">
+    <name>71</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604595337864765</gpxx:lat>
+      <gpxx:lon>-8.409957256589202</gpxx:lon>
+      <gpxx:y_proj>4808648.4242105084</gpxx:y_proj>
+      <gpxx:x_proj>-936192.15939670592</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60458176577847" lon="-8.410136053982109">
+    <name>72</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60458176577847</gpxx:lat>
+      <gpxx:lon>-8.410136053982109</gpxx:lon>
+      <gpxx:y_proj>4808646.4632606385</gpxx:y_proj>
+      <gpxx:x_proj>-936212.06303143955</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604561355342355" lon="-8.410313697404069">
+    <name>73</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604561355342355</gpxx:lat>
+      <gpxx:lon>-8.410313697404069</gpxx:lon>
+      <gpxx:y_proj>4808643.5142790778</gpxx:y_proj>
+      <gpxx:x_proj>-936231.83820671483</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60453925065049" lon="-8.410491054921522">
+    <name>74</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60453925065049</gpxx:lat>
+      <gpxx:lon>-8.410491054921522</gpxx:lon>
+      <gpxx:y_proj>4808640.3205056414</gpxx:y_proj>
+      <gpxx:x_proj>-936251.58155524614</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604517145951554" lon="-8.410668412438973">
+    <name>75</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604517145951554</gpxx:lat>
+      <gpxx:lon>-8.410668412438973</gpxx:lon>
+      <gpxx:y_proj>4808637.1267322022</gpxx:y_proj>
+      <gpxx:x_proj>-936271.3249037771</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604504253627113" lon="-8.410847242016693">
+    <name>76</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604504253627113</gpxx:lat>
+      <gpxx:lon>-8.410847242016693</gpxx:lon>
+      <gpxx:y_proj>4808635.263999166</gpxx:y_proj>
+      <gpxx:x_proj>-936291.23212130775</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604492554341142" lon="-8.411026262232177">
+    <name>77</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604492554341142</gpxx:lat>
+      <gpxx:lon>-8.411026262232177</gpxx:lon>
+      <gpxx:y_proj>4808633.5736412536</gpxx:y_proj>
+      <gpxx:x_proj>-936311.16056053713</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60448085505319" lon="-8.411205282447666">
+    <name>78</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60448085505319</gpxx:lat>
+      <gpxx:lon>-8.411205282447666</gpxx:lon>
+      <gpxx:y_proj>4808631.8832833394</gpxx:y_proj>
+      <gpxx:x_proj>-936331.08899976686</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604469155763269" lon="-8.411384302663151">
+    <name>79</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604469155763269</gpxx:lat>
+      <gpxx:lon>-8.411384302663151</gpxx:lon>
+      <gpxx:y_proj>4808630.1929254327</gpxx:y_proj>
+      <gpxx:x_proj>-936351.01743899658</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604458658534128" lon="-8.41156340153694">
+    <name>80</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604458658534128</gpxx:lat>
+      <gpxx:lon>-8.41156340153694</gpxx:lon>
+      <gpxx:y_proj>4808628.6762460768</gpxx:y_proj>
+      <gpxx:x_proj>-936370.95463442837</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604456426112975" lon="-8.411743041227599">
+    <name>81</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604456426112975</gpxx:lat>
+      <gpxx:lon>-8.411743041227599</gpxx:lon>
+      <gpxx:y_proj>4808628.3536974583</gpxx:y_proj>
+      <gpxx:x_proj>-936390.95203331881</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604444760155467" lon="-8.411921599481431">
+    <name>82</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604444760155467</gpxx:lat>
+      <gpxx:lon>-8.411921599481431</gpxx:lon>
+      <gpxx:y_proj>4808626.6681561349</gpxx:y_proj>
+      <gpxx:x_proj>-936410.82904721226</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604414322975643" lon="-8.412096656517813">
+    <name>83</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604414322975643</gpxx:lat>
+      <gpxx:lon>-8.412096656517813</gpxx:lon>
+      <gpxx:y_proj>4808622.2704795003</gpxx:y_proj>
+      <gpxx:x_proj>-936430.31630736205</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604377274647362" lon="-8.412269765090759">
+    <name>84</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604377274647362</gpxx:lat>
+      <gpxx:lon>-8.412269765090759</gpxx:lon>
+      <gpxx:y_proj>4808616.9176022271</gpxx:y_proj>
+      <gpxx:x_proj>-936449.58666555444</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604339269897707" lon="-8.412442520667558">
+    <name>85</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604339269897707</gpxx:lat>
+      <gpxx:lon>-8.412442520667558</gpxx:lon>
+      <gpxx:y_proj>4808611.4265406858</gpxx:y_proj>
+      <gpxx:x_proj>-936468.81772839522</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604300594817992" lon="-8.412615028841543">
+    <name>86</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604300594817992</gpxx:lat>
+      <gpxx:lon>-8.412615028841543</gpxx:lon>
+      <gpxx:y_proj>4808605.8386305692</gpxx:y_proj>
+      <gpxx:x_proj>-936488.02125048102</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604260397910203" lon="-8.412786949638701">
+    <name>87</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604260397910203</gpxx:lat>
+      <gpxx:lon>-8.412786949638701</gpxx:lon>
+      <gpxx:y_proj>4808600.0308447396</gpxx:y_proj>
+      <gpxx:x_proj>-936507.15938607731</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604220511656848" lon="-8.412958991633788">
+    <name>88</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604220511656848</gpxx:lat>
+      <gpxx:lon>-8.412958991633788</gpxx:lon>
+      <gpxx:y_proj>4808594.2679466493</gpxx:y_proj>
+      <gpxx:x_proj>-936526.31101336551</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604182595288187" lon="-8.413131776559524">
+    <name>89</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604182595288187</gpxx:lat>
+      <gpxx:lon>-8.413131776559524</gpxx:lon>
+      <gpxx:y_proj>4808588.7896671072</gpxx:y_proj>
+      <gpxx:x_proj>-936545.54534331523</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604145566192528" lon="-8.413304892109176">
+    <name>90</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604145566192528</gpxx:lat>
+      <gpxx:lon>-8.413304892109176</gpxx:lon>
+      <gpxx:y_proj>4808583.4395865342</gpxx:y_proj>
+      <gpxx:x_proj>-936564.8164781509</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604107162684862" lon="-8.413477497543424">
+    <name>91</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604107162684862</gpxx:lat>
+      <gpxx:lon>-8.413477497543424</gpxx:lon>
+      <gpxx:y_proj>4808577.8909296002</gpxx:y_proj>
+      <gpxx:x_proj>-936584.03082719957</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604068076204435" lon="-8.413649849495547">
+    <name>92</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604068076204435</gpxx:lat>
+      <gpxx:lon>-8.413649849495547</gpxx:lon>
+      <gpxx:y_proj>4808572.2435978185</gpxx:y_proj>
+      <gpxx:x_proj>-936603.21695874713</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604028989701952" lon="-8.413822201447669">
+    <name>93</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604028989701952</gpxx:lat>
+      <gpxx:lon>-8.413822201447669</gpxx:lon>
+      <gpxx:y_proj>4808566.5962660378</gpxx:y_proj>
+      <gpxx:x_proj>-936622.40309029457</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603989903177407" lon="-8.413994553399794">
+    <name>94</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603989903177407</gpxx:lat>
+      <gpxx:lon>-8.413994553399794</gpxx:lon>
+      <gpxx:y_proj>4808560.948934257</gpxx:y_proj>
+      <gpxx:x_proj>-936641.58922184224</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603951673260156" lon="-8.414167222312695">
+    <name>95</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603951673260156</gpxx:lat>
+      <gpxx:lon>-8.414167222312695</gpxx:lon>
+      <gpxx:y_proj>4808555.4253706075</gpxx:y_proj>
+      <gpxx:x_proj>-936660.81063730223</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603913046052476" lon="-8.414339699116546">
+    <name>96</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603913046052476</gpxx:lat>
+      <gpxx:lon>-8.414339699116546</gpxx:lon>
+      <gpxx:y_proj>4808549.8444084441</gpxx:y_proj>
+      <gpxx:x_proj>-936680.01066728076</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603869307300947" lon="-8.414510157624822">
+    <name>97</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603869307300947</gpxx:lat>
+      <gpxx:lon>-8.414510157624822</gpxx:lon>
+      <gpxx:y_proj>4808543.524920525</gpxx:y_proj>
+      <gpxx:x_proj>-936698.98602162336</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603827946038706" lon="-8.414681605321">
+    <name>98</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603827946038706</gpxx:lat>
+      <gpxx:lon>-8.414681605321</gpxx:lon>
+      <gpxx:y_proj>4808537.548942076</gpxx:y_proj>
+      <gpxx:x_proj>-936718.07149185962</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603793423812334" lon="-8.414855280127663">
+    <name>99</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603793423812334</gpxx:lat>
+      <gpxx:lon>-8.414855280127663</gpxx:lon>
+      <gpxx:y_proj>4808532.561087341</gpxx:y_proj>
+      <gpxx:x_proj>-936737.40488290077</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603765651748446" lon="-8.415031217446794">
+    <name>100</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603765651748446</gpxx:lat>
+      <gpxx:lon>-8.415031217446794</gpxx:lon>
+      <gpxx:y_proj>4808528.5485142078</gpxx:y_proj>
+      <gpxx:x_proj>-936756.99013567809</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603732967267717" lon="-8.415205800489591">
+    <name>101</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603732967267717</gpxx:lat>
+      <gpxx:lon>-8.415205800489591</gpxx:lon>
+      <gpxx:y_proj>4808523.8261855906</gpxx:y_proj>
+      <gpxx:x_proj>-936776.42463110341</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603663752735663" lon="-8.415323001130862">
+    <name>102</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603663752735663</gpxx:lat>
+      <gpxx:lon>-8.415323001130862</gpxx:lon>
+      <gpxx:y_proj>4808513.82591887</gpxx:y_proj>
+      <gpxx:x_proj>-936789.47134681034</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603527296846927" lon="-8.415293012579873">
+    <name>103</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603527296846927</gpxx:lat>
+      <gpxx:lon>-8.415293012579873</gpxx:lon>
+      <gpxx:y_proj>4808494.1105033951</gpxx:y_proj>
+      <gpxx:x_proj>-936786.13303658459</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603391087354844" lon="-8.41526099122108">
+    <name>104</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603391087354844</gpxx:lat>
+      <gpxx:lon>-8.41526099122108</gpxx:lon>
+      <gpxx:y_proj>4808474.4307265384</gpxx:y_proj>
+      <gpxx:x_proj>-936782.56843522924</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603424638682952" lon="-8.415091857047283">
+    <name>105</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603424638682952</gpxx:lat>
+      <gpxx:lon>-8.415091857047283</gpxx:lon>
+      <gpxx:y_proj>4808479.2782753445</gpxx:y_proj>
+      <gpxx:x_proj>-936763.74050512642</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603462667197164" lon="-8.414919106715644">
+    <name>106</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603462667197164</gpxx:lat>
+      <gpxx:lon>-8.414919106715644</gpxx:lon>
+      <gpxx:y_proj>4808484.772697906</gpxx:y_proj>
+      <gpxx:x_proj>-936744.51002617402</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603500091726126" lon="-8.414746444907795">
+    <name>107</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603500091726126</gpxx:lat>
+      <gpxx:lon>-8.414746444907795</gpxx:lon>
+      <gpxx:y_proj>4808490.1798586231</gpxx:y_proj>
+      <gpxx:x_proj>-936725.28940164484</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603371738281105" lon="-8.414704112065717">
+    <name>108</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603371738281105</gpxx:lat>
+      <gpxx:lon>-8.414704112065717</gpxx:lon>
+      <gpxx:y_proj>4808471.6351429066</gpxx:y_proj>
+      <gpxx:x_proj>-936720.57693122083</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60323438175562" lon="-8.414681842100288">
+    <name>109</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60323438175562</gpxx:lat>
+      <gpxx:lon>-8.414681842100288</gpxx:lon>
+      <gpxx:y_proj>4808451.7896854747</gpxx:y_proj>
+      <gpxx:x_proj>-936718.09785000933</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603096831394929" lon="-8.414661660900165">
+    <name>110</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603096831394929</gpxx:lat>
+      <gpxx:lon>-8.414661660900165</gpxx:lon>
+      <gpxx:y_proj>4808431.9162619142</gpxx:y_proj>
+      <gpxx:x_proj>-936715.85128908802</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602959154625935" lon="-8.414642988235395">
+    <name>111</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602959154625935</gpxx:lat>
+      <gpxx:lon>-8.414642988235395</gpxx:lon>
+      <gpxx:y_proj>4808412.0246142773</gpxx:y_proj>
+      <gpxx:x_proj>-936713.7726575539</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602821488232301" lon="-8.414624180247021">
+    <name>112</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602821488232301</gpxx:lat>
+      <gpxx:lon>-8.414624180247021</gpxx:lon>
+      <gpxx:y_proj>4808392.1345052188</gpxx:y_proj>
+      <gpxx:x_proj>-936711.67896186537</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602683227159005" lon="-8.4146276941651">
+    <name>113</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602683227159005</gpxx:lat>
+      <gpxx:lon>-8.4146276941651</gpxx:lon>
+      <gpxx:y_proj>4808372.1585163418</gpxx:y_proj>
+      <gpxx:x_proj>-936712.07012943667</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602545250203711" lon="-8.414642178435406">
+    <name>114</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602545250203711</gpxx:lat>
+      <gpxx:lon>-8.414642178435406</gpxx:lon>
+      <gpxx:y_proj>4808352.223616655</gpxx:y_proj>
+      <gpxx:x_proj>-936713.68251103151</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602408121378744" lon="-8.414664860349221">
+    <name>115</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602408121378744</gpxx:lat>
+      <gpxx:lon>-8.414664860349221</gpxx:lon>
+      <gpxx:y_proj>4808332.4112941232</gpxx:y_proj>
+      <gpxx:x_proj>-936716.20745012769</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602269709761636" lon="-8.414667631922011">
+    <name>116</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602269709761636</gpxx:lat>
+      <gpxx:lon>-8.414667631922011</gpxx:lon>
+      <gpxx:y_proj>4808312.4136740314</gpxx:y_proj>
+      <gpxx:x_proj>-936716.51598019956</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602131971157917" lon="-8.414652065038428">
+    <name>117</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602131971157917</gpxx:lat>
+      <gpxx:lon>-8.414652065038428</gpxx:lon>
+      <gpxx:y_proj>4808292.5133301569</gpxx:y_proj>
+      <gpxx:x_proj>-936714.78308264585</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60199787389174" lon="-8.414607672348829">
+    <name>118</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60199787389174</gpxx:lat>
+      <gpxx:lon>-8.414607672348829</gpxx:lon>
+      <gpxx:y_proj>4808273.1391213229</gpxx:y_proj>
+      <gpxx:x_proj>-936709.84131104464</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601865577992918" lon="-8.414555340220716">
+    <name>119</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601865577992918</gpxx:lat>
+      <gpxx:lon>-8.414555340220716</gpxx:lon>
+      <gpxx:y_proj>4808254.0252086045</gpxx:y_proj>
+      <gpxx:x_proj>-936704.01572519098</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601780925623643" lon="-8.414635460454209">
+    <name>120</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601780925623643</gpxx:lat>
+      <gpxx:lon>-8.414635460454209</gpxx:lon>
+      <gpxx:y_proj>4808241.7947806176</gpxx:y_proj>
+      <gpxx:x_proj>-936712.93466878554</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601732318220805" lon="-8.414803681499659">
+    <name>121</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601732318220805</gpxx:lat>
+      <gpxx:lon>-8.414803681499659</gpxx:lon>
+      <gpxx:y_proj>4808234.7720738351</gpxx:y_proj>
+      <gpxx:x_proj>-936731.66094990587</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.6016828280829" lon="-8.414971470371727">
+    <name>122</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.6016828280829</gpxx:lat>
+      <gpxx:lon>-8.414971470371727</gpxx:lon>
+      <gpxx:y_proj>4808227.6218361985</gpxx:y_proj>
+      <gpxx:x_proj>-936750.33912170527</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601635466012901" lon="-8.41514027876149">
+    <name>123</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601635466012901</gpxx:lat>
+      <gpxx:lon>-8.41514027876149</gpxx:lon>
+      <gpxx:y_proj>4808220.7790624062</gpxx:y_proj>
+      <gpxx:x_proj>-936769.13078569528</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601586430521934" lon="-8.415308292366037">
+    <name>124</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601586430521934</gpxx:lat>
+      <gpxx:lon>-8.415308292366037</gpxx:lon>
+      <gpxx:y_proj>4808213.6945211515</gpxx:y_proj>
+      <gpxx:x_proj>-936787.83397459972</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601541043095267" lon="-8.41547799689123">
+    <name>125</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601541043095267</gpxx:lat>
+      <gpxx:lon>-8.41547799689123</gpxx:lon>
+      <gpxx:y_proj>4808207.1370487735</gpxx:y_proj>
+      <gpxx:x_proj>-936806.72539592965</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60150664699264" lon="-8.415650212471608">
+    <name>126</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60150664699264</gpxx:lat>
+      <gpxx:lon>-8.415650212471608</gpxx:lon>
+      <gpxx:y_proj>4808202.1675808067</gpxx:y_proj>
+      <gpxx:x_proj>-936825.8963466438</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601558635477751" lon="-8.415812243606405">
+    <name>127</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601558635477751</gpxx:lat>
+      <gpxx:lon>-8.415812243606405</gpxx:lon>
+      <gpxx:y_proj>4808209.6787557527</gpxx:y_proj>
+      <gpxx:x_proj>-936843.93357006216</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60151799404801" lon="-8.415981920683779">
+    <name>128</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60151799404801</gpxx:lat>
+      <gpxx:lon>-8.415981920683779</gpxx:lon>
+      <gpxx:y_proj>4808203.8069763929</gpxx:y_proj>
+      <gpxx:x_proj>-936862.82193591469</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <!-- START REVERSE END SECOND -->
+<wpt lat="39.60151799404801" lon="-8.415981920683779">    <name>128</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.60151799404801</gpxx:lat>      <gpxx:lon>-8.415981920683779</gpxx:lon>      <gpxx:y_proj>4808203.8069763929</gpxx:y_proj>      <gpxx:x_proj>-936862.82193591469</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.601558635477751" lon="-8.415812243606405">    <name>127</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.601558635477751</gpxx:lat>      <gpxx:lon>-8.415812243606405</gpxx:lon>      <gpxx:y_proj>4808209.6787557527</gpxx:y_proj>      <gpxx:x_proj>-936843.93357006216</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.60150664699264" lon="-8.415650212471608">    <name>126</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.60150664699264</gpxx:lat>      <gpxx:lon>-8.415650212471608</gpxx:lon>      <gpxx:y_proj>4808202.1675808067</gpxx:y_proj>      <gpxx:x_proj>-936825.8963466438</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.601541043095267" lon="-8.41547799689123">    <name>125</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.601541043095267</gpxx:lat>      <gpxx:lon>-8.41547799689123</gpxx:lon>      <gpxx:y_proj>4808207.1370487735</gpxx:y_proj>      <gpxx:x_proj>-936806.72539592965</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.601586430521934" lon="-8.415308292366037">    <name>124</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.601586430521934</gpxx:lat>      <gpxx:lon>-8.415308292366037</gpxx:lon>      <gpxx:y_proj>4808213.6945211515</gpxx:y_proj>      <gpxx:x_proj>-936787.83397459972</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.601635466012901" lon="-8.41514027876149">    <name>123</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.601635466012901</gpxx:lat>      <gpxx:lon>-8.41514027876149</gpxx:lon>      <gpxx:y_proj>4808220.7790624062</gpxx:y_proj>      <gpxx:x_proj>-936769.13078569528</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.6016828280829" lon="-8.414971470371727">    <name>122</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.6016828280829</gpxx:lat>      <gpxx:lon>-8.414971470371727</gpxx:lon>      <gpxx:y_proj>4808227.6218361985</gpxx:y_proj>      <gpxx:x_proj>-936750.33912170527</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.601732318220805" lon="-8.414803681499659">    <name>121</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.601732318220805</gpxx:lat>      <gpxx:lon>-8.414803681499659</gpxx:lon>      <gpxx:y_proj>4808234.7720738351</gpxx:y_proj>      <gpxx:x_proj>-936731.66094990587</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.601780925623643" lon="-8.414635460454209">    <name>120</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.601780925623643</gpxx:lat>      <gpxx:lon>-8.414635460454209</gpxx:lon>      <gpxx:y_proj>4808241.7947806176</gpxx:y_proj>      <gpxx:x_proj>-936712.93466878554</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.601865577992918" lon="-8.414555340220716">    <name>119</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.601865577992918</gpxx:lat>      <gpxx:lon>-8.414555340220716</gpxx:lon>      <gpxx:y_proj>4808254.0252086045</gpxx:y_proj>      <gpxx:x_proj>-936704.01572519098</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.60199787389174" lon="-8.414607672348829">    <name>118</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.60199787389174</gpxx:lat>      <gpxx:lon>-8.414607672348829</gpxx:lon>      <gpxx:y_proj>4808273.1391213229</gpxx:y_proj>      <gpxx:x_proj>-936709.84131104464</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.602131971157917" lon="-8.414652065038428">    <name>117</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.602131971157917</gpxx:lat>      <gpxx:lon>-8.414652065038428</gpxx:lon>      <gpxx:y_proj>4808292.5133301569</gpxx:y_proj>      <gpxx:x_proj>-936714.78308264585</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.602269709761636" lon="-8.414667631922011">    <name>116</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.602269709761636</gpxx:lat>      <gpxx:lon>-8.414667631922011</gpxx:lon>      <gpxx:y_proj>4808312.4136740314</gpxx:y_proj>      <gpxx:x_proj>-936716.51598019956</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.602408121378744" lon="-8.414664860349221">    <name>115</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.602408121378744</gpxx:lat>      <gpxx:lon>-8.414664860349221</gpxx:lon>      <gpxx:y_proj>4808332.4112941232</gpxx:y_proj>      <gpxx:x_proj>-936716.20745012769</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.602545250203711" lon="-8.414642178435406">    <name>114</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.602545250203711</gpxx:lat>      <gpxx:lon>-8.414642178435406</gpxx:lon>      <gpxx:y_proj>4808352.223616655</gpxx:y_proj>      <gpxx:x_proj>-936713.68251103151</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.602683227159005" lon="-8.4146276941651">    <name>113</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.602683227159005</gpxx:lat>      <gpxx:lon>-8.4146276941651</gpxx:lon>      <gpxx:y_proj>4808372.1585163418</gpxx:y_proj>      <gpxx:x_proj>-936712.07012943667</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.602821488232301" lon="-8.414624180247021">    <name>112</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.602821488232301</gpxx:lat>      <gpxx:lon>-8.414624180247021</gpxx:lon>      <gpxx:y_proj>4808392.1345052188</gpxx:y_proj>      <gpxx:x_proj>-936711.67896186537</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.602959154625935" lon="-8.414642988235395">    <name>111</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.602959154625935</gpxx:lat>      <gpxx:lon>-8.414642988235395</gpxx:lon>      <gpxx:y_proj>4808412.0246142773</gpxx:y_proj>      <gpxx:x_proj>-936713.7726575539</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603096831394929" lon="-8.414661660900165">    <name>110</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603096831394929</gpxx:lat>      <gpxx:lon>-8.414661660900165</gpxx:lon>      <gpxx:y_proj>4808431.9162619142</gpxx:y_proj>      <gpxx:x_proj>-936715.85128908802</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.60323438175562" lon="-8.414681842100288">    <name>109</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.60323438175562</gpxx:lat>      <gpxx:lon>-8.414681842100288</gpxx:lon>      <gpxx:y_proj>4808451.7896854747</gpxx:y_proj>      <gpxx:x_proj>-936718.09785000933</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603371738281105" lon="-8.414704112065717">    <name>108</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603371738281105</gpxx:lat>      <gpxx:lon>-8.414704112065717</gpxx:lon>      <gpxx:y_proj>4808471.6351429066</gpxx:y_proj>      <gpxx:x_proj>-936720.57693122083</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603500091726126" lon="-8.414746444907795">    <name>107</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603500091726126</gpxx:lat>      <gpxx:lon>-8.414746444907795</gpxx:lon>      <gpxx:y_proj>4808490.1798586231</gpxx:y_proj>      <gpxx:x_proj>-936725.28940164484</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603462667197164" lon="-8.414919106715644">    <name>106</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603462667197164</gpxx:lat>      <gpxx:lon>-8.414919106715644</gpxx:lon>      <gpxx:y_proj>4808484.772697906</gpxx:y_proj>      <gpxx:x_proj>-936744.51002617402</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603424638682952" lon="-8.415091857047283">    <name>105</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603424638682952</gpxx:lat>      <gpxx:lon>-8.415091857047283</gpxx:lon>      <gpxx:y_proj>4808479.2782753445</gpxx:y_proj>      <gpxx:x_proj>-936763.74050512642</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603391087354844" lon="-8.41526099122108">    <name>104</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603391087354844</gpxx:lat>      <gpxx:lon>-8.41526099122108</gpxx:lon>      <gpxx:y_proj>4808474.4307265384</gpxx:y_proj>      <gpxx:x_proj>-936782.56843522924</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603527296846927" lon="-8.415293012579873">    <name>103</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603527296846927</gpxx:lat>      <gpxx:lon>-8.415293012579873</gpxx:lon>      <gpxx:y_proj>4808494.1105033951</gpxx:y_proj>      <gpxx:x_proj>-936786.13303658459</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603663752735663" lon="-8.415323001130862">    <name>102</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603663752735663</gpxx:lat>      <gpxx:lon>-8.415323001130862</gpxx:lon>      <gpxx:y_proj>4808513.82591887</gpxx:y_proj>      <gpxx:x_proj>-936789.47134681034</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603732967267717" lon="-8.415205800489591">    <name>101</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603732967267717</gpxx:lat>      <gpxx:lon>-8.415205800489591</gpxx:lon>      <gpxx:y_proj>4808523.8261855906</gpxx:y_proj>      <gpxx:x_proj>-936776.42463110341</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603765651748446" lon="-8.415031217446794">    <name>100</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603765651748446</gpxx:lat>      <gpxx:lon>-8.415031217446794</gpxx:lon>      <gpxx:y_proj>4808528.5485142078</gpxx:y_proj>      <gpxx:x_proj>-936756.99013567809</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603793423812334" lon="-8.414855280127663">    <name>99</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603793423812334</gpxx:lat>      <gpxx:lon>-8.414855280127663</gpxx:lon>      <gpxx:y_proj>4808532.561087341</gpxx:y_proj>      <gpxx:x_proj>-936737.40488290077</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603827946038706" lon="-8.414681605321">    <name>98</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603827946038706</gpxx:lat>      <gpxx:lon>-8.414681605321</gpxx:lon>      <gpxx:y_proj>4808537.548942076</gpxx:y_proj>      <gpxx:x_proj>-936718.07149185962</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603869307300947" lon="-8.414510157624822">    <name>97</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603869307300947</gpxx:lat>      <gpxx:lon>-8.414510157624822</gpxx:lon>      <gpxx:y_proj>4808543.524920525</gpxx:y_proj>      <gpxx:x_proj>-936698.98602162336</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603913046052476" lon="-8.414339699116546">    <name>96</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603913046052476</gpxx:lat>      <gpxx:lon>-8.414339699116546</gpxx:lon>      <gpxx:y_proj>4808549.8444084441</gpxx:y_proj>      <gpxx:x_proj>-936680.01066728076</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603951673260156" lon="-8.414167222312695">    <name>95</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603951673260156</gpxx:lat>      <gpxx:lon>-8.414167222312695</gpxx:lon>      <gpxx:y_proj>4808555.4253706075</gpxx:y_proj>      <gpxx:x_proj>-936660.81063730223</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.603989903177407" lon="-8.413994553399794">    <name>94</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.603989903177407</gpxx:lat>      <gpxx:lon>-8.413994553399794</gpxx:lon>      <gpxx:y_proj>4808560.948934257</gpxx:y_proj>      <gpxx:x_proj>-936641.58922184224</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604028989701952" lon="-8.413822201447669">    <name>93</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604028989701952</gpxx:lat>      <gpxx:lon>-8.413822201447669</gpxx:lon>      <gpxx:y_proj>4808566.5962660378</gpxx:y_proj>      <gpxx:x_proj>-936622.40309029457</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604068076204435" lon="-8.413649849495547">    <name>92</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604068076204435</gpxx:lat>      <gpxx:lon>-8.413649849495547</gpxx:lon>      <gpxx:y_proj>4808572.2435978185</gpxx:y_proj>      <gpxx:x_proj>-936603.21695874713</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604107162684862" lon="-8.413477497543424">    <name>91</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604107162684862</gpxx:lat>      <gpxx:lon>-8.413477497543424</gpxx:lon>      <gpxx:y_proj>4808577.8909296002</gpxx:y_proj>      <gpxx:x_proj>-936584.03082719957</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604145566192528" lon="-8.413304892109176">    <name>90</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604145566192528</gpxx:lat>      <gpxx:lon>-8.413304892109176</gpxx:lon>      <gpxx:y_proj>4808583.4395865342</gpxx:y_proj>      <gpxx:x_proj>-936564.8164781509</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604182595288187" lon="-8.413131776559524">    <name>89</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604182595288187</gpxx:lat>      <gpxx:lon>-8.413131776559524</gpxx:lon>      <gpxx:y_proj>4808588.7896671072</gpxx:y_proj>      <gpxx:x_proj>-936545.54534331523</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604220511656848" lon="-8.412958991633788">    <name>88</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604220511656848</gpxx:lat>      <gpxx:lon>-8.412958991633788</gpxx:lon>      <gpxx:y_proj>4808594.2679466493</gpxx:y_proj>      <gpxx:x_proj>-936526.31101336551</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604260397910203" lon="-8.412786949638701">    <name>87</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604260397910203</gpxx:lat>      <gpxx:lon>-8.412786949638701</gpxx:lon>      <gpxx:y_proj>4808600.0308447396</gpxx:y_proj>      <gpxx:x_proj>-936507.15938607731</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604300594817992" lon="-8.412615028841543">    <name>86</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604300594817992</gpxx:lat>      <gpxx:lon>-8.412615028841543</gpxx:lon>      <gpxx:y_proj>4808605.8386305692</gpxx:y_proj>      <gpxx:x_proj>-936488.02125048102</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604339269897707" lon="-8.412442520667558">    <name>85</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604339269897707</gpxx:lat>      <gpxx:lon>-8.412442520667558</gpxx:lon>      <gpxx:y_proj>4808611.4265406858</gpxx:y_proj>      <gpxx:x_proj>-936468.81772839522</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604377274647362" lon="-8.412269765090759">    <name>84</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604377274647362</gpxx:lat>      <gpxx:lon>-8.412269765090759</gpxx:lon>      <gpxx:y_proj>4808616.9176022271</gpxx:y_proj>      <gpxx:x_proj>-936449.58666555444</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604414322975643" lon="-8.412096656517813">    <name>83</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604414322975643</gpxx:lat>      <gpxx:lon>-8.412096656517813</gpxx:lon>      <gpxx:y_proj>4808622.2704795003</gpxx:y_proj>      <gpxx:x_proj>-936430.31630736205</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604444760155467" lon="-8.411921599481431">    <name>82</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604444760155467</gpxx:lat>      <gpxx:lon>-8.411921599481431</gpxx:lon>      <gpxx:y_proj>4808626.6681561349</gpxx:y_proj>      <gpxx:x_proj>-936410.82904721226</gpxx:x_proj>    </extensions>  </wpt>
+<wpt lat="39.604456426112975" lon="-8.411743041227599">    <name>81</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604456426112975</gpxx:lat>      <gpxx:lon>-8.411743041227599</gpxx:lon>      <gpxx:y_proj>4808628.3536974583</gpxx:y_proj>      <gpxx:x_proj>-936390.95203331881</gpxx:x_proj>    </extensions>  </wpt>
+  <!-- END REVERSE END SECOND -->
+  <!-- START REVERSE START THIRD -->
+  <wpt lat="39.604478896417525" lon="-8.411892735856617">    <name>157</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604478896417525</gpxx:lat>      <gpxx:lon>-8.411892735856617</gpxx:lon>      <gpxx:y_proj>4808631.60029219</gpxx:y_proj>      <gpxx:x_proj>-936407.61596319557</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604560500230221" lon="-8.411958602848294">    <name>156</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604560500230221</gpxx:lat>      <gpxx:lon>-8.411958602848294</gpxx:lon>      <gpxx:y_proj>4808643.3907290725</gpxx:y_proj>      <gpxx:x_proj>-936414.948243169</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604614307379038" lon="-8.412124130682892">    <name>155</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604614307379038</gpxx:lat>      <gpxx:lon>-8.412124130682892</gpxx:lon>      <gpxx:y_proj>4808651.165003228</gpxx:y_proj>      <gpxx:x_proj>-936433.37471742881</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604670358676927" lon="-8.412288405484725">    <name>154</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604670358676927</gpxx:lat>      <gpxx:lon>-8.412288405484725</gpxx:lon>      <gpxx:y_proj>4808659.2635275284</gpxx:y_proj>      <gpxx:x_proj>-936451.66170471895</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604730702646798" lon="-8.412450001574023">    <name>153</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604730702646798</gpxx:lat>      <gpxx:lon>-8.412450001574023</gpxx:lon>      <gpxx:y_proj>4808667.9822822334</gpxx:y_proj>      <gpxx:x_proj>-936469.65049909358</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604792142978411" lon="-8.412610872560292">    <name>152</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604792142978411</gpxx:lat>      <gpxx:lon>-8.412610872560292</gpxx:lon>      <gpxx:y_proj>4808676.8594517726</gpxx:y_proj>      <gpxx:x_proj>-936487.55857536849</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604845475057232" lon="-8.412776665354091">    <name>151</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604845475057232</gpxx:lat>      <gpxx:lon>-8.412776665354091</gpxx:lon>      <gpxx:y_proj>4808684.5651116529</gpxx:y_proj>      <gpxx:x_proj>-936506.0145447515</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604903744155806" lon="-8.412939595623126">    <name>150</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604903744155806</gpxx:lat>      <gpxx:lon>-8.412939595623126</gpxx:lon>      <gpxx:y_proj>4808692.9841012461</gpxx:y_proj>      <gpxx:x_proj>-936524.15185933525</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.604963294697036" lon="-8.413101782878224">    <name>149</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.604963294697036</gpxx:lat>      <gpxx:lon>-8.413101782878224</gpxx:lon>      <gpxx:y_proj>4808701.5882469369</gpxx:y_proj>      <gpxx:x_proj>-936542.20646198594</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605022845187065" lon="-8.413263970133324">    <name>148</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605022845187065</gpxx:lat>      <gpxx:lon>-8.413263970133324</gpxx:lon>      <gpxx:y_proj>4808710.1923926324</gpxx:y_proj>      <gpxx:x_proj>-936560.26106463675</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605082395625878" lon="-8.413426157388422">    <name>147</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605082395625878</gpxx:lat>      <gpxx:lon>-8.413426157388422</gpxx:lon>      <gpxx:y_proj>4808718.7965383288</gpxx:y_proj>      <gpxx:x_proj>-936578.31566728756</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605141946013482" lon="-8.41358834464352">    <name>146</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605141946013482</gpxx:lat>      <gpxx:lon>-8.41358834464352</gpxx:lon>      <gpxx:y_proj>4808727.4006840205</gpxx:y_proj>      <gpxx:x_proj>-936596.37026993814</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605204477326602" lon="-8.413748581173607">    <name>145</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605204477326602</gpxx:lat>      <gpxx:lon>-8.413748581173607</gpxx:lon>      <gpxx:y_proj>4808736.4355370998</gpxx:y_proj>      <gpxx:x_proj>-936614.20771887386</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605269530628952" lon="-8.413907167297568">    <name>144</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605269530628952</gpxx:lat>      <gpxx:lon>-8.413907167297568</gpxx:lon>      <gpxx:y_proj>4808745.8347891103</gpxx:y_proj>      <gpxx:x_proj>-936631.8614454401</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605333238982297" lon="-8.414066667219473">    <name>143</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605333238982297</gpxx:lat>      <gpxx:lon>-8.414066667219473</gpxx:lon>      <gpxx:y_proj>4808755.0397241917</gpxx:y_proj>      <gpxx:x_proj>-936649.61689552816</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605396579307595" lon="-8.414226417162237">    <name>142</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605396579307595</gpxx:lat>      <gpxx:lon>-8.414226417162237</gpxx:lon>      <gpxx:y_proj>4808764.1914929412</gpxx:y_proj>      <gpxx:x_proj>-936667.40017781081</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605459919574962" lon="-8.414386167104999">    <name>141</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605459919574962</gpxx:lat>      <gpxx:lon>-8.414386167104999</gpxx:lon>      <gpxx:y_proj>4808773.3432616927</gpxx:y_proj>      <gpxx:x_proj>-936685.18346009345</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605523259784377" lon="-8.414545917047761">    <name>140</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605523259784377</gpxx:lat>      <gpxx:lon>-8.414545917047761</gpxx:lon>      <gpxx:y_proj>4808782.4950304432</gpxx:y_proj>      <gpxx:x_proj>-936702.96674237598</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605595648189066" lon="-8.414697566827673">    <name>139</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605595648189066</gpxx:lat>      <gpxx:lon>-8.414697566827673</gpxx:lon>      <gpxx:y_proj>4808792.954146306</gpxx:y_proj>      <gpxx:x_proj>-936719.84831865481</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605688195099852" lon="-8.41483117025137">    <name>138</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605688195099852</gpxx:lat>      <gpxx:lon>-8.41483117025137</gpxx:lon>      <gpxx:y_proj>4808806.3259013509</gpxx:y_proj>      <gpxx:x_proj>-936734.72098374891</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605809483217598" lon="-8.414909043897758">    <name>137</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605809483217598</gpxx:lat>      <gpxx:lon>-8.414909043897758</gpxx:lon>      <gpxx:y_proj>4808823.8503923435</gpxx:y_proj>      <gpxx:x_proj>-936743.38983841089</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.605940727110529" lon="-8.41496509644162">    <name>136</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.605940727110529</gpxx:lat>      <gpxx:lon>-8.41496509644162</gpxx:lon>      <gpxx:y_proj>4808842.8133926457</gpxx:y_proj>      <gpxx:x_proj>-936749.6295790514</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.606077238119155" lon="-8.414994750701863">    <name>135</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.606077238119155</gpxx:lat>      <gpxx:lon>-8.414994750701863</gpxx:lon>      <gpxx:y_proj>4808862.5374593837</gpxx:y_proj>      <gpxx:x_proj>-936752.93067620159</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.606214557779495" lon="-8.415006421653276">    <name>134</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.606214557779495</gpxx:lat>      <gpxx:lon>-8.415006421653276</gpxx:lon>      <gpxx:y_proj>4808882.3784050131</gpxx:y_proj>      <gpxx:x_proj>-936754.22988056974</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.606352941422294" lon="-8.415002292558956">    <name>133</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.606352941422294</gpxx:lat>      <gpxx:lon>-8.415002292558956</gpxx:lon>      <gpxx:y_proj>4808902.3731223969</gpxx:y_proj>      <gpxx:x_proj>-936753.77023189282</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.606491241446946" lon="-8.414995781935053">    <name>132</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.606491241446946</gpxx:lat>      <gpxx:lon>-8.414995781935053</gpxx:lon>      <gpxx:y_proj>4808922.3557979139</gpxx:y_proj>      <gpxx:x_proj>-936753.0454725551</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.606629343099911" lon="-8.414983610617826">    <name>131</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.606629343099911</gpxx:lat>      <gpxx:lon>-8.414983610617826</gpxx:lon>      <gpxx:y_proj>4808942.30985096</gpxx:y_proj>      <gpxx:x_proj>-936751.69056771905</gpxx:x_proj>    </extensions>  </wpt>
+  <wpt lat="39.606767444477448" lon="-8.414971439300599">    <name>130</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.606767444477448</gpxx:lat>      <gpxx:lon>-8.414971439300599</gpxx:lon>      <gpxx:y_proj>4808962.2639040025</gpxx:y_proj>      <gpxx:x_proj>-936750.33566288312</gpxx:x_proj>    </extensions>  </wpt>
+<wpt lat="39.606905545579522" lon="-8.41495926798337">    <name>129</name>    <type>WAYPOINT</type>    <extensions>      <gpxx:lat>39.606905545579522</gpxx:lat>      <gpxx:lon>-8.41495926798337</gpxx:lon>      <gpxx:y_proj>4808982.2179570477</gpxx:y_proj>      <gpxx:x_proj>-936748.98075804696</gpxx:x_proj>    </extensions>  </wpt>
+  <!-- END REVERSE START THIRD -->
+  <wpt lat="39.606905545579522" lon="-8.41495926798337">
+    <name>129</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.606905545579522</gpxx:lat>
+      <gpxx:lon>-8.41495926798337</gpxx:lon>
+      <gpxx:y_proj>4808982.2179570477</gpxx:y_proj>
+      <gpxx:x_proj>-936748.98075804696</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.606767444477448" lon="-8.414971439300599">
+    <name>130</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.606767444477448</gpxx:lat>
+      <gpxx:lon>-8.414971439300599</gpxx:lon>
+      <gpxx:y_proj>4808962.2639040025</gpxx:y_proj>
+      <gpxx:x_proj>-936750.33566288312</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.606629343099911" lon="-8.414983610617826">
+    <name>131</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.606629343099911</gpxx:lat>
+      <gpxx:lon>-8.414983610617826</gpxx:lon>
+      <gpxx:y_proj>4808942.30985096</gpxx:y_proj>
+      <gpxx:x_proj>-936751.69056771905</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.606491241446946" lon="-8.414995781935053">
+    <name>132</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.606491241446946</gpxx:lat>
+      <gpxx:lon>-8.414995781935053</gpxx:lon>
+      <gpxx:y_proj>4808922.3557979139</gpxx:y_proj>
+      <gpxx:x_proj>-936753.0454725551</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.606352941422294" lon="-8.415002292558956">
+    <name>133</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.606352941422294</gpxx:lat>
+      <gpxx:lon>-8.415002292558956</gpxx:lon>
+      <gpxx:y_proj>4808902.3731223969</gpxx:y_proj>
+      <gpxx:x_proj>-936753.77023189282</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.606214557779495" lon="-8.415006421653276">
+    <name>134</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.606214557779495</gpxx:lat>
+      <gpxx:lon>-8.415006421653276</gpxx:lon>
+      <gpxx:y_proj>4808882.3784050131</gpxx:y_proj>
+      <gpxx:x_proj>-936754.22988056974</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.606077238119155" lon="-8.414994750701863">
+    <name>135</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.606077238119155</gpxx:lat>
+      <gpxx:lon>-8.414994750701863</gpxx:lon>
+      <gpxx:y_proj>4808862.5374593837</gpxx:y_proj>
+      <gpxx:x_proj>-936752.93067620159</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605940727110529" lon="-8.41496509644162">
+    <name>136</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605940727110529</gpxx:lat>
+      <gpxx:lon>-8.41496509644162</gpxx:lon>
+      <gpxx:y_proj>4808842.8133926457</gpxx:y_proj>
+      <gpxx:x_proj>-936749.6295790514</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605809483217598" lon="-8.414909043897758">
+    <name>137</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605809483217598</gpxx:lat>
+      <gpxx:lon>-8.414909043897758</gpxx:lon>
+      <gpxx:y_proj>4808823.8503923435</gpxx:y_proj>
+      <gpxx:x_proj>-936743.38983841089</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605688195099852" lon="-8.41483117025137">
+    <name>138</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605688195099852</gpxx:lat>
+      <gpxx:lon>-8.41483117025137</gpxx:lon>
+      <gpxx:y_proj>4808806.3259013509</gpxx:y_proj>
+      <gpxx:x_proj>-936734.72098374891</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605595648189066" lon="-8.414697566827673">
+    <name>139</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605595648189066</gpxx:lat>
+      <gpxx:lon>-8.414697566827673</gpxx:lon>
+      <gpxx:y_proj>4808792.954146306</gpxx:y_proj>
+      <gpxx:x_proj>-936719.84831865481</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605523259784377" lon="-8.414545917047761">
+    <name>140</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605523259784377</gpxx:lat>
+      <gpxx:lon>-8.414545917047761</gpxx:lon>
+      <gpxx:y_proj>4808782.4950304432</gpxx:y_proj>
+      <gpxx:x_proj>-936702.96674237598</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605459919574962" lon="-8.414386167104999">
+    <name>141</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605459919574962</gpxx:lat>
+      <gpxx:lon>-8.414386167104999</gpxx:lon>
+      <gpxx:y_proj>4808773.3432616927</gpxx:y_proj>
+      <gpxx:x_proj>-936685.18346009345</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605396579307595" lon="-8.414226417162237">
+    <name>142</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605396579307595</gpxx:lat>
+      <gpxx:lon>-8.414226417162237</gpxx:lon>
+      <gpxx:y_proj>4808764.1914929412</gpxx:y_proj>
+      <gpxx:x_proj>-936667.40017781081</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605333238982297" lon="-8.414066667219473">
+    <name>143</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605333238982297</gpxx:lat>
+      <gpxx:lon>-8.414066667219473</gpxx:lon>
+      <gpxx:y_proj>4808755.0397241917</gpxx:y_proj>
+      <gpxx:x_proj>-936649.61689552816</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605269530628952" lon="-8.413907167297568">
+    <name>144</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605269530628952</gpxx:lat>
+      <gpxx:lon>-8.413907167297568</gpxx:lon>
+      <gpxx:y_proj>4808745.8347891103</gpxx:y_proj>
+      <gpxx:x_proj>-936631.8614454401</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605204477326602" lon="-8.413748581173607">
+    <name>145</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605204477326602</gpxx:lat>
+      <gpxx:lon>-8.413748581173607</gpxx:lon>
+      <gpxx:y_proj>4808736.4355370998</gpxx:y_proj>
+      <gpxx:x_proj>-936614.20771887386</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605141946013482" lon="-8.41358834464352">
+    <name>146</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605141946013482</gpxx:lat>
+      <gpxx:lon>-8.41358834464352</gpxx:lon>
+      <gpxx:y_proj>4808727.4006840205</gpxx:y_proj>
+      <gpxx:x_proj>-936596.37026993814</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605082395625878" lon="-8.413426157388422">
+    <name>147</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605082395625878</gpxx:lat>
+      <gpxx:lon>-8.413426157388422</gpxx:lon>
+      <gpxx:y_proj>4808718.7965383288</gpxx:y_proj>
+      <gpxx:x_proj>-936578.31566728756</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.605022845187065" lon="-8.413263970133324">
+    <name>148</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.605022845187065</gpxx:lat>
+      <gpxx:lon>-8.413263970133324</gpxx:lon>
+      <gpxx:y_proj>4808710.1923926324</gpxx:y_proj>
+      <gpxx:x_proj>-936560.26106463675</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604963294697036" lon="-8.413101782878224">
+    <name>149</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604963294697036</gpxx:lat>
+      <gpxx:lon>-8.413101782878224</gpxx:lon>
+      <gpxx:y_proj>4808701.5882469369</gpxx:y_proj>
+      <gpxx:x_proj>-936542.20646198594</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604903744155806" lon="-8.412939595623126">
+    <name>150</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604903744155806</gpxx:lat>
+      <gpxx:lon>-8.412939595623126</gpxx:lon>
+      <gpxx:y_proj>4808692.9841012461</gpxx:y_proj>
+      <gpxx:x_proj>-936524.15185933525</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604845475057232" lon="-8.412776665354091">
+    <name>151</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604845475057232</gpxx:lat>
+      <gpxx:lon>-8.412776665354091</gpxx:lon>
+      <gpxx:y_proj>4808684.5651116529</gpxx:y_proj>
+      <gpxx:x_proj>-936506.0145447515</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604792142978411" lon="-8.412610872560292">
+    <name>152</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604792142978411</gpxx:lat>
+      <gpxx:lon>-8.412610872560292</gpxx:lon>
+      <gpxx:y_proj>4808676.8594517726</gpxx:y_proj>
+      <gpxx:x_proj>-936487.55857536849</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604730702646798" lon="-8.412450001574023">
+    <name>153</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604730702646798</gpxx:lat>
+      <gpxx:lon>-8.412450001574023</gpxx:lon>
+      <gpxx:y_proj>4808667.9822822334</gpxx:y_proj>
+      <gpxx:x_proj>-936469.65049909358</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604670358676927" lon="-8.412288405484725">
+    <name>154</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604670358676927</gpxx:lat>
+      <gpxx:lon>-8.412288405484725</gpxx:lon>
+      <gpxx:y_proj>4808659.2635275284</gpxx:y_proj>
+      <gpxx:x_proj>-936451.66170471895</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604614307379038" lon="-8.412124130682892">
+    <name>155</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604614307379038</gpxx:lat>
+      <gpxx:lon>-8.412124130682892</gpxx:lon>
+      <gpxx:y_proj>4808651.165003228</gpxx:y_proj>
+      <gpxx:x_proj>-936433.37471742881</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604560500230221" lon="-8.411958602848294">
+    <name>156</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604560500230221</gpxx:lat>
+      <gpxx:lon>-8.411958602848294</gpxx:lon>
+      <gpxx:y_proj>4808643.3907290725</gpxx:y_proj>
+      <gpxx:x_proj>-936414.948243169</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604478896417525" lon="-8.411892735856617">
+    <name>157</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604478896417525</gpxx:lat>
+      <gpxx:lon>-8.411892735856617</gpxx:lon>
+      <gpxx:y_proj>4808631.60029219</gpxx:y_proj>
+      <gpxx:x_proj>-936407.61596319557</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604441558234413" lon="-8.412065739037743">
+    <name>158</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604441558234413</gpxx:lat>
+      <gpxx:lon>-8.412065739037743</gpxx:lon>
+      <gpxx:y_proj>4808626.2055306165</gpxx:y_proj>
+      <gpxx:x_proj>-936426.87458922411</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604405240304793" lon="-8.412239098956214">
+    <name>159</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604405240304793</gpxx:lat>
+      <gpxx:lon>-8.412239098956214</gpxx:lon>
+      <gpxx:y_proj>4808620.9581819037</gpxx:y_proj>
+      <gpxx:x_proj>-936446.17292707204</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604371342100833" lon="-8.41241329157587">
+    <name>160</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604371342100833</gpxx:lat>
+      <gpxx:lon>-8.41241329157587</gpxx:lon>
+      <gpxx:y_proj>4808616.0604465818</gpxx:y_proj>
+      <gpxx:x_proj>-936465.56396079238</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604332708414709" lon="-8.41258571341052">
+    <name>161</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604332708414709</gpxx:lat>
+      <gpxx:lon>-8.41258571341052</gpxx:lon>
+      <gpxx:y_proj>4808610.4785145689</gpxx:y_proj>
+      <gpxx:x_proj>-936484.75787162723</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604290283533928" lon="-8.412756728788063">
+    <name>162</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604290283533928</gpxx:lat>
+      <gpxx:lon>-8.412756728788063</gpxx:lon>
+      <gpxx:y_proj>4808604.3488208847</gpxx:y_proj>
+      <gpxx:x_proj>-936503.79521637294</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604248847614556" lon="-8.412928153662689">
+    <name>163</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604248847614556</gpxx:lat>
+      <gpxx:lon>-8.412928153662689</gpxx:lon>
+      <gpxx:y_proj>4808598.3620193964</gpxx:y_proj>
+      <gpxx:x_proj>-936522.8781461257</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604205707086081" lon="-8.413098866186095">
+    <name>164</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604205707086081</gpxx:lat>
+      <gpxx:lon>-8.413098866186095</gpxx:lon>
+      <gpxx:y_proj>4808592.1289340369</gpxx:y_proj>
+      <gpxx:x_proj>-936541.88177730329</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60416977502139" lon="-8.413272334547484">
+    <name>165</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60416977502139</gpxx:lat>
+      <gpxx:lon>-8.413272334547484</gpxx:lon>
+      <gpxx:y_proj>4808586.9373541865</gpxx:y_proj>
+      <gpxx:x_proj>-936561.19218696188</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604134759291121" lon="-8.413446154417132">
+    <name>166</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604134759291121</gpxx:lat>
+      <gpxx:lon>-8.413446154417132</gpxx:lon>
+      <gpxx:y_proj>4808581.8781718584</gpxx:y_proj>
+      <gpxx:x_proj>-936580.54172634089</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604097167329975" lon="-8.413619040401846">
+    <name>167</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604097167329975</gpxx:lat>
+      <gpxx:lon>-8.413619040401846</gpxx:lon>
+      <gpxx:y_proj>4808576.446770478</gpxx:y_proj>
+      <gpxx:x_proj>-936599.78730612458</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604057720430539" lon="-8.413791253973693">
+    <name>168</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604057720430539</gpxx:lat>
+      <gpxx:lon>-8.413791253973693</gpxx:lon>
+      <gpxx:y_proj>4808570.7473651161</gpxx:y_proj>
+      <gpxx:x_proj>-936618.9580332503</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.604018324063979" lon="-8.41396348694874">
+    <name>169</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.604018324063979</gpxx:lat>
+      <gpxx:lon>-8.41396348694874</gpxx:lon>
+      <gpxx:y_proj>4808565.0552641358</gpxx:y_proj>
+      <gpxx:x_proj>-936638.13092033018</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603979265255028" lon="-8.414135849487353">
+    <name>170</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603979265255028</gpxx:lat>
+      <gpxx:lon>-8.414135849487353</gpxx:lon>
+      <gpxx:y_proj>4808559.4119376503</gpxx:y_proj>
+      <gpxx:x_proj>-936657.31823036051</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603939424407031" lon="-8.414307906131706">
+    <name>171</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603939424407031</gpxx:lat>
+      <gpxx:lon>-8.414307906131706</gpxx:lon>
+      <gpxx:y_proj>4808553.6556232441</gpxx:y_proj>
+      <gpxx:x_proj>-936676.47148839745</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603898597939626" lon="-8.414479577249757">
+    <name>172</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603898597939626</gpxx:lat>
+      <gpxx:lon>-8.414479577249757</gpxx:lon>
+      <gpxx:y_proj>4808547.7569072964</gpxx:y_proj>
+      <gpxx:x_proj>-936695.58182984276</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603855572305299" lon="-8.414650292260774">
+    <name>173</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603855572305299</gpxx:lat>
+      <gpxx:lon>-8.414650292260774</gpxx:lon>
+      <gpxx:y_proj>4808541.5404536594</gpxx:y_proj>
+      <gpxx:x_proj>-936714.58573794004</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603815135712424" lon="-8.414821559158826">
+    <name>174</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603815135712424</gpxx:lat>
+      <gpxx:lon>-8.414821559158826</gpxx:lon>
+      <gpxx:y_proj>4808535.6980748689</gpxx:y_proj>
+      <gpxx:x_proj>-936733.65108182083</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603790693878999" lon="-8.414998399341211">
+    <name>175</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603790693878999</gpxx:lat>
+      <gpxx:lon>-8.414998399341211</gpxx:lon>
+      <gpxx:y_proj>4808532.1666600788</gpxx:y_proj>
+      <gpxx:x_proj>-936753.3368408758</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603758451934752" lon="-8.41517308110171">
+    <name>176</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603758451934752</gpxx:lat>
+      <gpxx:lon>-8.41517308110171</gpxx:lon>
+      <gpxx:y_proj>4808527.5082684485</gpxx:y_proj>
+      <gpxx:x_proj>-936772.7823255054</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603721793946164" lon="-8.415345866503543">
+    <name>177</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603721793946164</gpxx:lat>
+      <gpxx:lon>-8.415345866503543</gpxx:lon>
+      <gpxx:y_proj>4808522.2118390184</gpxx:y_proj>
+      <gpxx:x_proj>-936792.016708454</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603606037385291" lon="-8.415372086210018">
+    <name>178</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603606037385291</gpxx:lat>
+      <gpxx:lon>-8.415372086210018</gpxx:lon>
+      <gpxx:y_proj>4808505.4870866714</gpxx:y_proj>
+      <gpxx:x_proj>-936794.93547282764</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603469502082454" lon="-8.415342502241469">
+    <name>179</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603469502082454</gpxx:lat>
+      <gpxx:lon>-8.415342502241469</gpxx:lon>
+      <gpxx:y_proj>4808485.7602137402</gpxx:y_proj>
+      <gpxx:x_proj>-936791.64220051304</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603363211191606" lon="-8.415264578485914">
+    <name>180</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603363211191606</gpxx:lat>
+      <gpxx:lon>-8.415264578485914</gpxx:lon>
+      <gpxx:y_proj>4808470.403136285</gpxx:y_proj>
+      <gpxx:x_proj>-936782.96776772395</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.60339760534233" lon="-8.415092725047957">
+    <name>181</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.60339760534233</gpxx:lat>
+      <gpxx:lon>-8.415092725047957</gpxx:lon>
+      <gpxx:y_proj>4808475.3724554665</gpxx:y_proj>
+      <gpxx:x_proj>-936763.83713051956</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603437982041768" lon="-8.414920875844357">
+    <name>182</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603437982041768</gpxx:lat>
+      <gpxx:lon>-8.414920875844357</gpxx:lon>
+      <gpxx:y_proj>4808481.2061455259</gpxx:y_proj>
+      <gpxx:x_proj>-936744.70696468151</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603460978248457" lon="-8.414749413670752">
+    <name>183</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603460978248457</gpxx:lat>
+      <gpxx:lon>-8.414749413670752</gpxx:lon>
+      <gpxx:y_proj>4808484.5286757424</gpxx:y_proj>
+      <gpxx:x_proj>-936725.61988282541</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603327687270038" lon="-8.414720607666448">
+    <name>184</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603327687270038</gpxx:lat>
+      <gpxx:lon>-8.414720607666448</gpxx:lon>
+      <gpxx:y_proj>4808465.2705886886</gpxx:y_proj>
+      <gpxx:x_proj>-936722.41321309458</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603190181808756" lon="-8.414700187529501">
+    <name>185</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603190181808756</gpxx:lat>
+      <gpxx:lon>-8.414700187529501</gpxx:lon>
+      <gpxx:y_proj>4808445.4036254678</gpxx:y_proj>
+      <gpxx:x_proj>-936720.1400538478</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.603052544302713" lon="-8.414681067289582">
+    <name>186</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.603052544302713</gpxx:lat>
+      <gpxx:lon>-8.414681067289582</gpxx:lon>
+      <gpxx:y_proj>4808425.5176237589</gpxx:y_proj>
+      <gpxx:x_proj>-936718.01159847598</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602914464332315" lon="-8.414668357154264">
+    <name>187</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602914464332315</gpxx:lat>
+      <gpxx:lon>-8.414668357154264</gpxx:lon>
+      <gpxx:y_proj>4808405.5677340794</gpxx:y_proj>
+      <gpxx:x_proj>-936716.59671268461</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602776865812501" lon="-8.414649794120276">
+    <name>188</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602776865812501</gpxx:lat>
+      <gpxx:lon>-8.414649794120276</gpxx:lon>
+      <gpxx:y_proj>4808385.6874442836</gpxx:y_proj>
+      <gpxx:x_proj>-936714.53028519335</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602638633828491" lon="-8.414657865820811">
+    <name>189</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602638633828491</gpxx:lat>
+      <gpxx:lon>-8.414657865820811</gpxx:lon>
+      <gpxx:y_proj>4808365.7156711016</gpxx:y_proj>
+      <gpxx:x_proj>-936715.42882278678</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602500813442518" lon="-8.414674566279423">
+    <name>190</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602500813442518</gpxx:lat>
+      <gpxx:lon>-8.414674566279423</gpxx:lon>
+      <gpxx:y_proj>4808345.8034053361</gpxx:y_proj>
+      <gpxx:x_proj>-936717.28790933557</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602363360804247" lon="-8.414695097051643">
+    <name>191</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602363360804247</gpxx:lat>
+      <gpxx:lon>-8.414695097051643</gpxx:lon>
+      <gpxx:y_proj>4808325.9443111634</gpxx:y_proj>
+      <gpxx:x_proj>-936719.57338444469</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602224936328753" lon="-8.414695644343949">
+    <name>192</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602224936328753</gpxx:lat>
+      <gpxx:lon>-8.414695644343949</gpxx:lon>
+      <gpxx:y_proj>4808305.9448462315</gpxx:y_proj>
+      <gpxx:x_proj>-936719.6343087455</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.602088962852577" lon="-8.414663029439703">
+    <name>193</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.602088962852577</gpxx:lat>
+      <gpxx:lon>-8.414663029439703</gpxx:lon>
+      <gpxx:y_proj>4808286.2995387688</gpxx:y_proj>
+      <gpxx:x_proj>-936716.00363421254</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601955032483794" lon="-8.414617652804996">
+    <name>194</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601955032483794</gpxx:lat>
+      <gpxx:lon>-8.414617652804996</gpxx:lon>
+      <gpxx:y_proj>4808266.9494550647</gpxx:y_proj>
+      <gpxx:x_proj>-936710.95233034296</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601822164344028" lon="-8.414584204484527">
+    <name>195</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601822164344028</gpxx:lat>
+      <gpxx:lon>-8.414584204484527</gpxx:lon>
+      <gpxx:y_proj>4808247.7528777886</gpxx:y_proj>
+      <gpxx:x_proj>-936707.22888034035</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601771561570452" lon="-8.41474890515874">
+    <name>196</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601771561570452</gpxx:lat>
+      <gpxx:lon>-8.41474890515874</gpxx:lon>
+      <gpxx:y_proj>4808240.4418793181</gpxx:y_proj>
+      <gpxx:x_proj>-936725.56327552733</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601723702543786" lon="-8.414917489146852">
+    <name>197</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601723702543786</gpxx:lat>
+      <gpxx:lon>-8.414917489146852</gpxx:lon>
+      <gpxx:y_proj>4808233.5272974232</gpxx:y_proj>
+      <gpxx:x_proj>-936744.32995923969</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601675876721309" lon="-8.415086089056148">
+    <name>198</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601675876721309</gpxx:lat>
+      <gpxx:lon>-8.415086089056148</gpxx:lon>
+      <gpxx:y_proj>4808226.6175175793</gpxx:y_proj>
+      <gpxx:x_proj>-936763.09841529035</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601629334132902" lon="-8.415255285998301">
+    <name>199</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601629334132902</gpxx:lat>
+      <gpxx:lon>-8.415255285998301</gpxx:lon>
+      <gpxx:y_proj>4808219.8931414261</gpxx:y_proj>
+      <gpxx:x_proj>-936781.93333273462</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601583739292458" lon="-8.415424923889173">
+    <name>200</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601583739292458</gpxx:lat>
+      <gpxx:lon>-8.415424923889173</gpxx:lon>
+      <gpxx:y_proj>4808213.3056983072</gpxx:y_proj>
+      <gpxx:x_proj>-936800.8173363657</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601536014856215" lon="-8.415593527522246">
+    <name>201</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601536014856215</gpxx:lat>
+      <gpxx:lon>-8.415593527522246</gpxx:lon>
+      <gpxx:y_proj>4808206.4105804758</gpxx:y_proj>
+      <gpxx:x_proj>-936819.58620694524</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601563021358636" lon="-8.415757413542382">
+    <name>202</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601563021358636</gpxx:lat>
+      <gpxx:lon>-8.415757413542382</gpxx:lon>
+      <gpxx:y_proj>4808210.3124178415</gpxx:y_proj>
+      <gpxx:x_proj>-936837.82991525496</gpxx:x_proj>
+    </extensions>
+  </wpt>
+  <wpt lat="39.601562340281241" lon="-8.415929642866566">
+    <name>203</name>
+    <type>WAYPOINT</type>
+    <extensions>
+      <gpxx:lat>39.601562340281241</gpxx:lat>
+      <gpxx:lon>-8.415929642866566</gpxx:lon>
+      <gpxx:y_proj>4808210.2140173241</gpxx:y_proj>
+      <gpxx:x_proj>-936857.00239592278</gpxx:x_proj>
+    </extensions>
+  </wpt>
+</gpx>

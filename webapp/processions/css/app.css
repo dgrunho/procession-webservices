@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+  padding-top: 50px;
+}
+
+#si-map {
+  height: calc(100vh - 50px);
+}
+
+#si-legend {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 8px;
+  backface-visibility: hidden;
+
+  max-width: 20vw;
+}
+
+#si-app-toast {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  padding: 4px;
+  font-size: 12px;
+  text-align: center;
+
+  opacity: 0.9;
+}

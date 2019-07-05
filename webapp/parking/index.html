@@ -1,0 +1,82 @@
+<!doctype html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>SmartFest - Parques</title>
+
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+    <style media="screen">
+      .navbar.navbar-flex {
+        display: flex;
+        flex-flow: row nowrap;
+        align-items: center;
+        justify-content: center;
+      }
+    </style>
+  </head>
+  <body>
+    <main id="app">
+
+      <div class="navbar navbar-inverse navbar-flex navbar-static-top">
+        <h4 class="navbar-text">Parques</h4>
+      </div>
+
+      <div class="container">
+        <form action="/api/parking" method="post" id="parking-form">
+          <div class="form-group">
+            <label for="park-list" class="control-label">Parque</label>
+            <select autocomplete="off" disabled id="park-list"
+              name="id" class="form-control">
+              <option value="">A carregar os parques. Aguarde.</option>
+            </select>
+          </div>
+
+          <div class="form-group" id="allocation">
+            <label class="control-label">Ocupação</label>
+            <div>
+              <button type="submit" autocomplete="off"
+                name="allocation" value="low" disabled
+                class="btn btn-lg btn-success btn-block">
+                  Pouca ocupação
+              </button>
+              <button type="submit" autocomplete="off"
+                name="allocation" value="med" disabled
+                class="btn btn-lg btn-warning btn-block">
+                  Alguma ocupação
+              </button>
+              <button type="submit" autocomplete="off"
+                name="allocation" value="high" disabled
+                class="btn btn-lg btn-danger btn-block">
+                  Muita ocupação ou cheio
+              </button>
+            </div>
+
+          <div class="form-group">
+            <p class="help-block">
+              Última atualização às <b><date id="last-update">...</date></b>
+            </p>
+          </div>
+          <div class="form-group">
+            <div class="alert alert-danger hidden" id="error-msg">
+              Ocorreu um erro. Tente novamente.
+            </div>
+
+            <div class="alert alert-success hidden" id="success-msg">
+              A informação do parque foi atualizada com sucesso.
+            </div>
+          </div>
+        </form>
+      </div>
+    </main>
+
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+    <script src='js/app.js'></script>
+  </body>
+</html>

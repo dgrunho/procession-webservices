@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<gpx xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxedw="http://www.gpxeditor.co.uk/xmlschemas/WaypointExtension/v1" xmlns:gpxedts="http://www.gpxeditor.co.uk/xmlschemas/TrackSegExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="GPXEditor" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="39.60093" lon="-8.41399">
+    <name>1</name>
+  </wpt>
+  <wpt lat="39.60114" lon="-8.41406">
+    <name>2</name>
+  </wpt>
+  <wpt lat="39.60109" lon="-8.41422">
+    <name>3</name>
+  </wpt>
+  <wpt lat="39.60106" lon="-8.41431">
+    <name>4</name>
+  </wpt>
+  <wpt lat="39.60121" lon="-8.41438">
+    <name>5</name>
+  </wpt>
+  <wpt lat="39.60135" lon="-8.41443">
+    <name>6</name>
+  </wpt>
+  <wpt lat="39.60148" lon="-8.4145">
+    <name>7</name>
+  </wpt>
+  <wpt lat="39.60167" lon="-8.41457">
+    <name>8</name>
+  </wpt>
+  <wpt lat="39.6018" lon="-8.41462">
+    <name>9</name>
+  </wpt>
+  <wpt lat="39.60185" lon="-8.41445">
+    <name>10</name>
+  </wpt>
+  <wpt lat="39.6019" lon="-8.41429">
+    <name>11</name>
+  </wpt>
+  <wpt lat="39.60194" lon="-8.41411">
+    <name>12</name>
+  </wpt>
+  <wpt lat="39.60198" lon="-8.41393">
+    <name>13</name>
+  </wpt>
+  <wpt lat="39.60202" lon="-8.41376">
+    <name>14</name>
+  </wpt>
+  <wpt lat="39.60206" lon="-8.41358">
+    <name>15</name>
+  </wpt>
+  <wpt lat="39.6021" lon="-8.41344">
+    <name>16</name>
+  </wpt>
+  <wpt lat="39.60216" lon="-8.41327">
+    <name>17</name>
+  </wpt>
+  <wpt lat="39.60221" lon="-8.41309">
+    <name>18</name>
+  </wpt>
+  <wpt lat="39.60225" lon="-8.41293">
+    <name>19</name>
+  </wpt>
+  <wpt lat="39.6023" lon="-8.41276">
+    <name>20</name>
+  </wpt>
+  <wpt lat="39.60236" lon="-8.41258">
+    <name>21</name>
+  </wpt>
+  <wpt lat="39.6024" lon="-8.41243">
+    <name>22</name>
+  </wpt>
+  <wpt lat="39.60247" lon="-8.41227">
+    <name>23</name>
+  </wpt>
+  <wpt lat="39.60251" lon="-8.41215">
+    <name>24</name>
+  </wpt>
+  <wpt lat="39.60264" lon="-8.41209">
+    <name>25</name>
+  </wpt>
+  <wpt lat="39.60277" lon="-8.41203">
+    <name>26</name>
+  </wpt>
+  <wpt lat="39.60293" lon="-8.412">
+    <name>27</name>
+  </wpt>
+  <wpt lat="39.60306" lon="-8.41201">
+    <name>28</name>
+  </wpt>
+  <wpt lat="39.60319" lon="-8.41201">
+    <name>29</name>
+  </wpt>
+  <wpt lat="39.60331" lon="-8.41198">
+    <name>30</name>
+  </wpt>
+  <wpt lat="39.60344" lon="-8.41191">
+    <name>31</name>
+  </wpt>
+  <wpt lat="39.60357" lon="-8.41184">
+    <name>32</name>
+  </wpt>
+  <wpt lat="39.6037" lon="-8.4118">
+    <name>33</name>
+  </wpt>
+  <wpt lat="39.60384" lon="-8.41177">
+    <name>34</name>
+  </wpt>
+  <wpt lat="39.60398" lon="-8.41173">
+    <name>35</name>
+  </wpt>
+  <wpt lat="39.60413" lon="-8.41171">
+    <name>36</name>
+  </wpt>
+  <wpt lat="39.60428" lon="-8.4117">
+    <name>37</name>
+  </wpt>
+  <wpt lat="39.60449" lon="-8.41173">
+    <name>38</name>
+  </wpt>
+  <wpt lat="39.60455" lon="-8.41188">
+    <name>39</name>
+  </wpt>
+  <wpt lat="39.60463" lon="-8.41204">
+    <name>40</name>
+  </wpt>
+  <wpt lat="39.6047" lon="-8.41222">
+    <name>41</name>
+  </wpt>
+  <wpt lat="39.60474" lon="-8.41236">
+    <name>42</name>
+  </wpt>
+  <wpt lat="39.60481" lon="-8.41252">
+    <name>43</name>
+  </wpt>
+  <wpt lat="39.60486" lon="-8.41269">
+    <name>44</name>
+  </wpt>
+  <wpt lat="39.60491" lon="-8.41284">
+    <name>45</name>
+  </wpt>
+  <wpt lat="39.60496" lon="-8.41298">
+    <name>46</name>
+  </wpt>
+  <wpt lat="39.60501" lon="-8.41312">
+    <name>47</name>
+  </wpt>
+  <wpt lat="39.60505" lon="-8.41325">
+    <name>48</name>
+  </wpt>
+  <wpt lat="39.60517" lon="-8.41317">
+    <name>49</name>
+  </wpt>
+  <wpt lat="39.6053" lon="-8.41311">
+    <name>50</name>
+  </wpt>
+  <wpt lat="39.60543" lon="-8.41305">
+    <name>51</name>
+  </wpt>
+  <wpt lat="39.60557" lon="-8.41309">
+    <name>52</name>
+  </wpt>
+  <wpt lat="39.6057" lon="-8.41312">
+    <name>53</name>
+  </wpt>
+</gpx>

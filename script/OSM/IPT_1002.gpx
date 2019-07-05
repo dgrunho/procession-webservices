@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx creator="WTracks" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+  <name>IPT2</name>
+  <desc></desc>
+  <author><name>WTracks</name></author>
+  <link href='https://opoto.github.io/wtracks/'>
+    <text>WTracks</text>
+    <type>text/html</type>
+  </link>
+  <time>2019-07-02T15:27:14.580Z</time>
+  <bounds minlat="39.59910190470116" minlon="-8.392554223537447" maxlat="39.60086064778502" maxlon="-8.387404382228853"/>
+</metadata>
+<wpt lat="39.60052791603242" lon="-8.39037358760834"><name>New waypoint</name></wpt>
+<wpt lat="39.60050311608624" lon="-8.390389680862429"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.600472116141" lon="-8.390405774116518"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.60043698285297" lon="-8.390411138534548"><name>New waypoint</name></wpt>
+<wpt lat="39.600418382869734" lon="-8.390424549579622"><name>New waypoint</name></wpt>
+<wpt lat="39.60038738288658" lon="-8.390435278415682"><name>New waypoint</name></wpt>
+<wpt lat="39.60035638288954" lon="-8.390448689460756"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.60034191621952" lon="-8.390459418296816"><name>New waypoint</name></wpt>
+<wpt lat="39.60031711620672" lon="-8.39048355817795"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.600281982840045" lon="-8.390496969223024"><name>New waypoint</name></wpt>
+<wpt lat="39.600253049465884" lon="-8.390518426895143"><name>New waypoint</name></wpt>
+<wpt lat="39.60022618275048" lon="-8.390531837940218"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.60018278264974" lon="-8.390553295612337"><name>New waypoint</name></wpt>
+<wpt lat="39.600145582541735" lon="-8.390569388866426"><name>New waypoint</name></wpt>
+<wpt lat="39.60010424906497" lon="-8.3905827999115"><name>New waypoint</name></wpt>
+<wpt lat="39.60006498223918" lon="-8.390601575374605"><name>New waypoint</name></wpt>
+<wpt lat="39.600027782067926" lon="-8.390617668628694"><name>New waypoint</name></wpt>
+<wpt lat="39.599967848416604" lon="-8.390644490718843"><name>New waypoint</name></wpt>
+<wpt lat="39.599943048269864" lon="-8.390649855136873"><name>New waypoint</name></wpt>
+<wpt lat="39.59990791471345" lon="-8.390665948390962"><name>New waypoint</name></wpt>
+<wpt lat="39.59987484782053" lon="-8.390679359436037"><name>New waypoint</name></wpt>
+<wpt lat="39.599825247451584" lon="-8.390700817108156"><name>New waypoint</name></wpt>
+<wpt lat="39.59976738030956" lon="-8.390722274780275"><name>New waypoint</name></wpt>
+<wpt lat="39.599719846549576" lon="-8.390738368034365"><name>New waypoint</name></wpt>
+<wpt lat="39.599664046007106" lon="-8.390765190124513"><name>New waypoint</name></wpt>
+<wpt lat="39.599645445816286" lon="-8.390775918960573"><name>New waypoint</name></wpt>
+<wpt lat="39.59961651217621" lon="-8.390786647796633"><name>New waypoint</name></wpt>
+<wpt lat="39.599581378454126" lon="-8.390800058841707"><name>New waypoint</name></wpt>
+<wpt lat="39.59954624471423" lon="-8.390821516513826"><name>New waypoint</name></wpt>
+<wpt lat="39.599523511108345" lon="-8.390818834304811"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.59949044403189" lon="-8.390829563140871"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.599451176858125" lon="-8.390848338603975"><name>New waypoint</name></wpt>
+<wpt lat="39.59940570957647" lon="-8.390864431858065"><name>New waypoint</name></wpt>
+<wpt lat="39.59936850905108" lon="-8.390885889530184"><name>New waypoint</name></wpt>
+<wpt lat="39.59930650813105" lon="-8.390915393829347"><name>New waypoint</name></wpt>
+<wpt lat="39.59925897405476" lon="-8.390926122665407"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.59923004025324" lon="-8.390939533710482"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.5991928396335" lon="-8.390952944755556"><name>New waypoint</name></wpt>
+<wpt lat="39.59916183910182" lon="-8.39096635580063"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.59914323877612" lon="-8.390942215919496"><name>New waypoint</name></wpt>
+<wpt lat="39.59913083855622" lon="-8.390891253948213"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.59912463844544" lon="-8.390848338603975"><name>New waypoint</name></wpt>
+<wpt lat="39.599114304926225" lon="-8.390813469886782"><name>New waypoint</name></wpt>
+<wpt lat="39.59912463844544" lon="-8.390778601169588"><name>New waypoint</name></wpt>
+<wpt lat="39.59914117207296" lon="-8.390749096870424"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.599128771852676" lon="-8.390706181526186"><name>New waypoint</name></wpt>
+<wpt lat="39.599112238222204" lon="-8.390633761882784"><name>New waypoint</name></wpt>
+<wpt lat="39.599099837996754" lon="-8.39059889316559"><name>New waypoint</name></wpt>
+<wpt lat="39.599087437769086" lon="-8.390550613403322"><name>New waypoint</name></wpt>
+<wpt lat="39.59907297083399" lon="-8.390496969223024"><name>New waypoint</name></wpt>
+<wpt lat="39.59906263730709" lon="-8.390454053878786"><name>New waypoint</name></wpt>
+<wpt lat="39.59904403695475" lon="-8.390378952026369"><name>New waypoint</name></wpt>
+<wpt lat="39.59902750330405" lon="-8.390311896800997"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.59900476952789" lon="-8.39022070169449"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.598998569405836" lon="-8.390169739723207"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.59896756878716" lon="-8.390175104141237"><name>New waypoint</name></wpt>
+<wpt lat="39.59892623460739" lon="-8.390185832977297"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.598897300666835" lon="-8.390199244022371"><name>New waypoint</name></wpt>
+<wpt lat="39.598874566847925" lon="-8.390207290649416"><name>New waypoint</name></wpt>
+<wpt lat="39.598860099868375" lon="-8.390212655067446"><name>New waypoint</name></wpt>
+<wpt lat="39.59885596644508" lon="-8.390175104141237"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.59884149946166" lon="-8.390137553215029"><name>New waypoint</name></wpt>
+<wpt lat="39.598831165900215" lon="-8.39009463787079"><name>New waypoint</name></wpt>
+<wpt lat="39.59882289904994" lon="-8.390054404735567"><name>New waypoint</name></wpt>
+<wpt lat="39.598812565485744" lon="-8.390006124973299"><name>New waypoint</name></wpt>
+<wpt lat="39.59879809849324" lon="-8.38995784521103"><name>New waypoint</name></wpt>
+<wpt lat="39.59877536464176" lon="-8.38996320962906"><name>New waypoint</name></wpt>
+<wpt lat="39.59875469749759" lon="-8.38996320962906"><name>New waypoint</name></wpt>
+<wpt lat="39.5987216300541" lon="-8.389987349510195"><name>New waypoint</name></wpt>
+<wpt lat="39.59868236244444" lon="-8.38999003171921"><name>New waypoint</name></wpt>
+<wpt lat="39.59864722824851" lon="-8.390016853809358"><name>New waypoint</name></wpt>
+<wpt lat="39.59860589387755" lon="-8.390022218227388"><name>New waypoint</name></wpt>
+<wpt lat="39.59857075964281" lon="-8.390040993690492"><name>New waypoint</name></wpt>
+<wpt lat="39.59852115833993" lon="-8.390059769153597"><name>New waypoint</name></wpt>
+<wpt lat="39.59850049111991" lon="-8.390073180198671"><name>New waypoint</name></wpt>
+<wpt lat="39.59847569044774" lon="-8.39008390903473"><name>New waypoint</name></wpt>
+<wpt lat="39.598442622871026" lon="-8.39009463787079"><name>New waypoint</name></wpt>
+<wpt lat="39.59841988890291" lon="-8.39009463787079"><name>New waypoint</name></wpt>
+<wpt lat="39.598471557001524" lon="-8.390065133571627"><name>New waypoint</name></wpt>
+<wpt lat="39.598527358504725" lon="-8.390038311481478"><name>New waypoint</name></wpt>
+<wpt lat="39.59857695980318" lon="-8.390016853809358"><name>New waypoint</name></wpt>
+<wpt lat="39.598634827939804" lon="-8.38999539613724"><name>New waypoint</name></wpt>
+<wpt lat="39.598690629311484" lon="-8.38996320962906"><name>New waypoint</name></wpt>
+<wpt lat="39.59874643063821" lon="-8.389949798583986"><name>New waypoint</name></wpt>
+<wpt lat="39.59879809849324" lon="-8.389928340911867"><name>New waypoint</name></wpt>
+<wpt lat="39.598858033156766" lon="-8.389917612075807"><name>New waypoint</name></wpt>
+<wpt lat="39.598909700928544" lon="-8.389896154403688"><name>New waypoint</name></wpt>
+<wpt lat="39.59892830131694" lon="-8.38986396789551"><name>New waypoint</name></wpt>
+<wpt lat="39.59890763421841" lon="-8.389815688133242"><name>New waypoint</name></wpt>
+<wpt lat="39.59889523395632" lon="-8.389778137207033"><name>New waypoint</name></wpt>
+<wpt lat="39.59889936737727" lon="-8.38974326848984"><name>New waypoint</name></wpt>
+<wpt lat="39.598884900402915" lon="-8.389703035354616"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.59889936737727" lon="-8.389668166637422"><name>New waypoint</name></wpt>
+<wpt lat="39.598965502078755" lon="-8.389641344547274"><name>New waypoint</name><ele>66</ele></wpt>
+<wpt lat="39.59902957001062" lon="-8.389627933502199"><name>New waypoint</name></wpt>
+<wpt lat="39.59908950447385" lon="-8.38960647583008"><name>New waypoint</name></wpt>
+<wpt lat="39.599155638993786" lon="-8.389576971530916"><name>New waypoint</name></wpt>
+<wpt lat="39.59921970674976" lon="-8.389550149440767"><name>New waypoint</name></wpt>
+<wpt lat="39.599281707747494" lon="-8.389517962932588"><name>New waypoint</name></wpt>
+<wpt lat="39.59936437565815" lon="-8.38949650526047"><name>New waypoint</name></wpt>
+<wpt lat="39.59943050991563" lon="-8.389472365379335"><name>New waypoint</name></wpt>
+<wpt lat="39.599500777495" lon="-8.389450907707216"><name>New waypoint</name></wpt>
+<wpt lat="39.59957104500308" lon="-8.389426767826082"><name>New waypoint</name></wpt>
+<wpt lat="39.59964751250439" lon="-8.389394581317903"><name>New waypoint</name></wpt>
+<wpt lat="39.59972604660705" lon="-8.389367759227754"><name>New waypoint</name></wpt>
+<wpt lat="39.599790113835375" lon="-8.389335572719576"><name>New waypoint</name></wpt>
+<wpt lat="39.59986451441327" lon="-8.389306068420412"><name>New waypoint</name></wpt>
+<wpt lat="39.599920314794225" lon="-8.389289975166323"><name>New waypoint</name></wpt>
+<wpt lat="39.59999264855448" lon="-8.389268517494203"><name>New waypoint</name></wpt>
+<wpt lat="39.60004018212722" lon="-8.389236330986025"><name>New waypoint</name></wpt>
+<wpt lat="39.600098049041314" lon="-8.389214873313906"><name>New waypoint</name></wpt>
+<wpt lat="39.60015591590709" lon="-8.389198780059816"><name>New waypoint</name></wpt>
+<wpt lat="39.60021791606672" lon="-8.389174640178682"><name>New waypoint</name></wpt>
+<wpt lat="39.60028818284724" lon="-8.389150500297548"><name>New waypoint</name><ele>65</ele></wpt>
+<wpt lat="39.60034604955411" lon="-8.389126360416414"><name>New waypoint</name></wpt>
+<wpt lat="39.60040804954354" lon="-8.38910758495331"><name>New waypoint</name></wpt>
+<wpt lat="39.60042458286469" lon="-8.389169275760652"><name>New waypoint</name></wpt>
+<wpt lat="39.60043491618841" lon="-8.389230966567995"><name>New waypoint</name></wpt>
+<wpt lat="39.60045144950312" lon="-8.389322161674501"><name>New waypoint</name></wpt>
+<wpt lat="39.60046591615029" lon="-8.389397263526918"><name>New waypoint</name></wpt>
+<wpt lat="39.60049071610981" lon="-8.389472365379335"><name>New waypoint</name></wpt>
+<wpt lat="39.60051138273593" lon="-8.389563560485842"><name>New waypoint</name></wpt>
+<wpt lat="39.60052791603242" lon="-8.389644026756288"><name>New waypoint</name></wpt>
+<wpt lat="39.60054858264748" lon="-8.389708399772646"><name>New waypoint</name></wpt>
+<wpt lat="39.600567182595725" lon="-8.389791548252107"><name>New waypoint</name></wpt>
+<wpt lat="39.600581649218725" lon="-8.38985323905945"><name>New waypoint</name></wpt>
+<wpt lat="39.6006002491581" lon="-8.389912247657778"><name>New waypoint</name></wpt>
+<wpt lat="39.60060851579622" lon="-8.389976620674135"><name>New waypoint</name></wpt>
+<wpt lat="39.60062504906951" lon="-8.390032947063448"><name>New waypoint</name></wpt>
+<wpt lat="39.600641582338845" lon="-8.39010536670685"><name>New waypoint</name></wpt>
+<wpt lat="39.600649848972054" lon="-8.390153646469118"><name>New waypoint</name></wpt>
+<wpt lat="39.60066224891998" lon="-8.390218019485475"><name>New waypoint</name></wpt>
+<wpt lat="39.6006746488657" lon="-8.390271663665773"><name>New waypoint</name></wpt>
+<wpt lat="39.6006560489463" lon="-8.390285074710848"><name>New waypoint</name></wpt>
+<wpt lat="39.60062918238723" lon="-8.390298485755922"><name>New waypoint</name></wpt>
+<wpt lat="39.60059198251899" lon="-8.390319943428041"><name>New waypoint</name></wpt>
+<wpt lat="39.600567182595725" lon="-8.390317261219026"><name>New waypoint</name></wpt>
+<trk><name>IPT2</name>
+  <trkseg>
+  </trkseg>
+</trk></gpx>

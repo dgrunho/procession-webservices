@@ -1,0 +1,5 @@
+---
+applications:
+  - name: smarterfest
+    host: smarterfest-dev-diogo-grunho
+    memory: 512M

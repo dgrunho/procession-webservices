@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<gpx xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxedw="http://www.gpxeditor.co.uk/xmlschemas/WaypointExtension/v1" xmlns:gpxedts="http://www.gpxeditor.co.uk/xmlschemas/TrackSegExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="GPXEditor" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="39.6094" lon="-8.42998">
+    <name>P1</name>
+  </wpt>
+  <wpt lat="39.59888" lon="-8.42529">
+    <name>P2</name>
+  </wpt>
+  <wpt lat="39.60057" lon="-8.38473">
+    <name>P3</name>
+  </wpt>
+  <wpt lat="39.60039" lon="-8.39086">
+    <name>P4</name>
+  </wpt>
+  <wpt lat="39.6001" lon="-8.41313">
+    <name>P5</name>
+  </wpt>
+  <wpt lat="39.59824" lon="-8.41346">
+    <name>P6</name>
+  </wpt>
+  <wpt lat="39.5979" lon="-8.41272">
+    <name>P7</name>
+  </wpt>
+  <wpt lat="39.59563" lon="-8.41084">
+    <name>P8</name>
+  </wpt>
+  <wpt lat="39.59749" lon="-8.40856">
+    <name>P9</name>
+  </wpt>
+  <wpt lat="39.59928" lon="-8.40911">
+    <name>P10</name>
+  </wpt>
+  <wpt lat="39.59377" lon="-8.40325">
+    <name>P11</name>
+  </wpt>
+  <wpt lat="39.59433" lon="-8.40268">
+    <name>P12</name>
+  </wpt>
+  <wpt lat="39.60691" lon="-8.4004">
+    <name>P13</name>
+  </wpt>
+  <wpt lat="39.60686" lon="-8.39506">
+    <name>P14</name>
+  </wpt>
+  <wpt lat="39.61413" lon="-8.41231">
+    <name>P16</name>
+  </wpt>
+  <wpt lat="39.60074" lon="-8.41461">
+    <name>P17</name>
+  </wpt>
+  <wpt lat="39.61097" lon="-8.39831">
+    <name>P_RIT</name>
+  </wpt>
+  <wpt lat="39.58427" lon="-8.39956">
+    <name>C_F</name>
+  </wpt>
+  <wpt lat="39.55516" lon="-8.39306">
+    <name>ARR_ZI</name>
+  </wpt>
+</gpx>
